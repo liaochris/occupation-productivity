@@ -1,7 +1,7 @@
 # occupation-productivity
 <h2> Introduction </h2>
 
-GitHub repository for research on variations in the productivity of occupations. 
+GitHub repository for research on variations in the productivity of occupations with UChicago PhD student James Traina. For further information please email me (Chris Liao) at chrisliao (at) uchicago (dot) edu.
 <h3> Project Goal </h3>
 
 The goal of this project is to explore a syptom of Baumol's Cost Disease, which is how much wage changes in one occupation, caused by a productivity increase in that occupation (ie: the introduction of a new technology that makes workers more productive) affects the wage in another occupation. 
