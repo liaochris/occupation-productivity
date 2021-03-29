@@ -1,0 +1,326 @@
+			Industry Productivity  (IP)
+					ip.txt
+
+
+Section Listing
+
+1. Survey Definition
+2. FTP files listed in the survey directory.
+3. Time series, series file, data file, & mapping file definitions and relationships
+4. Series file format and field definitions
+5. Data file format and field definitions
+6. Mapping file formats and field definitions
+7. Data Element Dictionary
+================================================================================
+Section 1
+================================================================================
+The following is a definition of:  INDUSTRY PRODUCTIVITY (IP) 
+
+Survey Description:  The Industry Productivity program produces annual 
+measures of output per hour, unit labor costs, and related series for a 
+select group of U.S. industries.
+
+Time-Series Available:  Indexes and annual percent changes are available by 
+industry for labor productivity (output per hour), output per person, real 
+output, the implicit price deflator for output, labor hours, employment, 
+labor compensation, and unit labor costs.  Level data underlying the 
+productivity and cost measures - including nominal value of production, labor 
+compensation, total annual hours, and total annual employment - also are 
+available. 
+
+Frequency of Observations:  Series are available on an annual basis, and 
+therefore, are not seasonally adjusted. For most industries, the indexes 
+begin in 1987 and annual percent change time-series begin in 1988.  
+
+Base Periods:  The base period for the industry productivity and related 
+indexes is 2002 = 100.
+
+Update Schedule:  Updates are performed periodically throughout the year as 
+source data become available. Typically, updates are announced through 3 to 4 
+news releases each year, with each news release covering industries in a 
+different sector or combination of sectors, such that all industries are 
+updated at least once a year.
+
+Reference:    BLS Handbook of Methods, Chapter 11, "Industry Productivity 
+Measures" (see: http://www.bls.gov/opub/hom/homch11.htm).
+==================================================================================
+Section 2
+==================================================================================
+The following Industry Productivity files are on the BLS 
+internet in the sub-directory pub/time.series/ip:
+
+
+	ip.contacts		- Contacts for IP survey 
+	ip.data.0.Current	- All current year-to-date data
+	ip.data.1.AllData	- All data
+	ip.duration		- Duration codes	mapping file
+	ip.industry		- Industry codes	mapping file
+	ip.measure		- Measure codes		mapping file
+	ip.seasonal		- Seasonal codes	mapping file
+	ip.sector		- Title codes		mapping file
+	ip.series		- All series and their beginning and end dates
+	ip.txt			- General information
+=================================================================================
+Section 3
+=================================================================================
+The definition of a time series, its relationship to and the interrelationship
+among series, data and mapping files is detailed below:
+
+A time series refers to a set of data observed over an extended period of time
+over consistent time intervals (i.e. monthly, quarterly, semi-annually, annually).  
+BLS time series data are typically produced at monthly intervals and represent data 
+ranging from a specific consumer item in a specific geographical area whose price 
+is gathered monthly to a category of worker in a specific industry whose employment
+rate is being recorded monthly, etc.
+
+The FTP files are organized such that data users are provided with the following
+set of files to use in their efforts to interpret data files:
+
+a)  a series file (only one series file per survey)
+b)  mapping files
+c)  data files
+
+The series file contains a set of codes which, together, compose a series 
+identification code that serves to uniquely identify a single time series.  
+Additionally, the series file also contains the following series-level information:
+
+a) the period and year corresponding to the first data observation 
+b) the period and year corresponding to the most recent data observation. 
+
+The mapping files are definition files that contain explanatory text descriptions
+that correspond to each of the various codes contained within each series
+identification code.
+
+The data file contains one line of data for each observation period pertaining to a
+specific time series.  Each line contains a reference to the following:
+
+a) a series identification code
+b) year in which data is observed
+c) period for which data is observed (M13, Q05, and S03 indicate annual averages)
+d) value
+e) footnote code (if available)
+=================================================================================
+Section 4
+=================================================================================
+File Structure and Format: The following represents the file format used to define 
+ip.series.  Note that the Field Numbers are for reference only; they do not exist 
+in the database.  Data files are in ASCII text format.  Data elements are separated 
+by tabs; the first record of each file contains the column headers for the data
+elements stored in each field.  Each record ends with a new line character. 
+
+Field #/Data Element	Length		Value(Example)		
+
+1.  series_id		  17		IPUBN211___L000
+
+2.  seasonal		  1		U
+
+3.  sector_code		  1		B
+
+4.  industry_code	  7		N211___  
+
+5.  measure_code	  3		L00
+
+6.  duration_code	  1		0
+
+7.  base_year		  4		1997					
+
+8.  begin_year		  4		1987
+
+9.  begin_period	  3		A01
+
+10.  end_year		  4		2001
+
+11. end_period		  3		A01
+
+
+The series_id (IPUBN211___L000) can be broken out into:
+
+Code					Value
+
+survey abbreviation	=		IP
+seasonal (code) 	=		U
+sector_code		=		B
+industry_code		=		N211___
+measure_code		=		L00
+duration_code		=		0
+==================================================================================
+Section 5
+==================================================================================
+File Structure and Format: The following represents the file format used to define
+each data file.  Note that the field numbers are for reference only; they do not 
+exist in the database.  Data files are in ASCII text format.  Data elements are 
+separated by tabs; the first record of each file contains the column headers for 
+the data elements stored in each field.  Each record ends with a new line character. 
+
+The ip.data file is partitioned into two separate files:
+
+	1.  ip.data.0.Current	- All current year-to-date
+	2.  ip.data.1.AllData	- All data
+
+The above-named data files have the following format:
+
+Field #/Data Element	Length		Value(Example)		
+
+1. series_id		  17		IPUBN211___L000 	      	
+
+2. year			   4		2001	
+
+3. period		   3		A01		
+
+4. value		  12      	116.6	 	
+				 
+5. footnote_codes	  10		It varies
+				
+
+The series_id (IPUBN211___L000) can be broken out into:
+
+Code					Value
+
+survey abbreviation	=		IP
+seasonal (code) 	=		U
+sector_code		=		B
+industry_code		=		N211___
+measure_code		=		L00
+duration_code		=		0
+================================================================================
+Section 6
+================================================================================
+File Structure and Format:  The following represents the file format used to define
+each mapping file. Note that the field numbers are for reference only; they do not
+exist in the database.  Mapping files are in ASCII text format.  Data elements are
+separated by tabs; the first record of each file contains the column headers for the
+data elements stored in each field.  Each record ends with a new line character. 
+
+File Name:  ip.duration
+
+Field #/Data Element		Length		Value(Example)
+
+1. duration_code		1		1
+
+2. duration_text		100		Text
+
+
+File Name:  ip.industry
+
+Field #/Data Element		Length		Value(Example)
+
+1. industry_code		7		N211___
+
+2. naics_code			50		
+
+3. industry_text		100		Text
+
+4. display_level		2		0
+
+5. selectable			1		T
+
+6. sort_sequence		5		1
+
+
+File Name:  ip.measure
+
+Field #/Data Element		Length		Value(Example)
+
+1. measure_code			3		L00
+
+2. measure_text			100		Text
+
+3. display_level		2		0
+
+4. selectable			1		T
+
+5. sort_sequence		5		1
+
+
+File Name:  ip.seasonal
+
+Field #/Data Element		Length		Value(Example)
+
+1. seasonal			1		U
+
+2. seasonal_text		100		Text
+
+
+File Name:  ip.sector
+
+Field #/Data Element		Length		Value(Example)
+
+1. sector_code			1		B
+
+2. sector_text			100		Text
+=========================================================================================
+Section 7
+=========================================================================================
+INDUSTRY PRODUCTIVITY (IP) DATABASE ELEMENTS
+
+
+Data Element   Length    	Value(Example)         		Description
+
+
+base year      4		YYYY			
+                       		Ex. 1997    
+
+begin_period   3         	A01 or Q01-Q05		Identifies first data observation
+                         	Ex: Q01=1st Quarter     within the first year for which
+                         	(Q=Quarterly,Q05= 	data is available for a given
+				Annual Avg, A=Annually)	time series.			
+                         	
+begin_year     4         	YYYY            	Identifies first year for which
+                         	Ex: 1948        	data is available for a given
+							time series.
+
+duration_code  1         	Ex: 1         		Code identifying the type of
+                                         		index.
+
+duration_text  100	   	Text   			Name of type of index.
+               		     	Ex: % Change year ago
+                         	
+
+end_period     3         	A01 or Q01-Q05	   	Identifies last data observation
+                         	Ex: A01=Annual     	within the last year for which
+                         	(Q=Quarterly,Q05=	data is available for a given
+				Annual Avg, A=Annually)	time series.
+				
+                         	
+end_year       4         	YYYY            	Identifies last year for which
+                         	Ex: 2001        	data is available for a given
+							time period.
+                                         		
+footnote_codes	10		It varies		Identifies footnotes for the data 
+							series.
+
+inustry_code   7		Ex. N211___		Code identifying industry.
+
+industry_text  100		Text			Name of industry.
+				Ex. Mining			
+
+measure_code   3         	Ex: L00		      	Identifies specific factor
+                                         		measured by the index.
+
+measure_text   100   		Text		        Name of specific factor
+                    		Ex: Labor productivity, measured in the index.
+               			output per hour          	
+                         	
+
+seasonal       1         	S=Seasonally    	Code identifying whether
+                         	  Adjusted	    	the data are seasonally
+                         	U=Unadjusted      	adjusted.
+
+sector_code    1         	B		     	Unique code identifying the
+                         			      	sector of economy to which
+                                         		data refer.
+
+sector_text    100   		Text			Name of economic sector to
+               		     	Ex: Mining   	 	which data refer.
+                         	    
+                         	
+series_id      17        	Code series identifier  Unique code identifying the
+                         	Ex: IPUBN211___L000	specific series.
+
+
+value          12        	Index           	Productivity index for function.
+                		Ex: 116.6
+
+year           4         	YYYY            	Identifies year of observation.
+                         	Ex: 1990        
+	

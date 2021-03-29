@@ -1,0 +1,7 @@
+type_code	type_text
+E	Employees
+H	Hours
+I	Index
+P	Percent
+R	Rate
+Y	Currency

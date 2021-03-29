@@ -1,0 +1,36 @@
+measure_code	measure_text	display_level	selectable	sort_sequence
+C00	Capital productivity (2007=100)	0	T	8
+C01	Capital (2007=100)	0	T	5
+C02	Capital costs (Million $)	0	T	22
+C03	Capital cost share (percent)	0	T	25
+C06	Capital intensity (2007=100)	0	T	14
+C07	Contribution of capital intensity (2007=100)	0	T	15
+L00	Labor productivity (2007=100)	0	T	2
+L01	Hours worked (2007=100)	0	T	6
+L02	Labor compensation (Million $)	0	T	23
+L03	Labor cost share (percent)	0	T	26
+L06	Real labor compensation (Million $)	0	T	31
+L07	Real labor compensation (2007=100)	0	T	32
+L20	Hours worked (millions)	0	T	28
+M00	Multifactor productivity (2007=100)	0	T	1
+M01	Combined inputs (2007=100)	0	T	4
+M02	Combined inputs costs (Million $)	0	T	21
+M05	Implicit combined inputs deflator (2007=100)	0	T	19
+P00	Intermediate purchases productivity (2007=100)	0	T	9
+P01	Intermediate purchases (2007=100)	0	T	7
+P02	Intermediate purchases costs (Million $)	0	T	24
+P03	Intermediate purchases cost share (percent)	0	T	27
+P06	Intermediate purchases to hours ratio (2007=100)	0	T	16
+P07	Contribution of intermediate purchases intensity (2007=100)	0	T	17
+T01	Output (2007=100)	0	T	3
+T05	Implicit output deflator (2007=100)	0	T	18
+T30	Value of production (Million $)	0	T	20
+U10	Unit labor costs (2007=100)	0	T	13
+U11	Labor compensation (2007=100)	0	T	12
+U12	Hourly compensation (2007=100)	0	T	30
+U13	Hourly compensation ($ / Hour)	0	T	35
+U14	Real hourly labor compensation ($ / Hour)	0	T	33
+U15	Real hourly labor compensation (2007=100)	0	T	34
+W00	Output per employee (2007=100)	0	T	11
+W01	Employment (2007=100)	0	T	10
+W20	Employment (thousands)	0	T	29

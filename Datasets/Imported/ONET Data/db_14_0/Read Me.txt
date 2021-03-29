@@ -1,0 +1,87 @@
+O*NET 14.0 Database
+June 29, 2010 Release
+---------------------
+
+The current release of the O*NET database is available online at:
+
+http://www.onetcenter.org/database.html
+
+For information on future releases of the O*NET database, visit
+the O*NET Development Database page at:
+
+http://www.onetcenter.org/dev_db.html
+
+
+New in 14.0
+-----------
+
+The June 2009 release of the O*NET 14.0 database represents the third
+major change to the taxonomy. 153 new and emerging (N&E) occupations
+identified within 17 in-demand industry clusters have been added to the
+O*NET-SOC taxonomy. The revised taxonomy includes 1102 occupational
+titles, 965 of which represent O*NET data-level occupations. Details of
+this update and implementation of the O*NET-SOC taxonomy can be found
+online at:
+
+http://www.onetcenter.org/taxonomy.html
+
+The current release retains the skills information contained within the
+13.0 database. New analyst-based skills information for 831 updated
+occupations within the 14.0 database is currently being developed. The
+new skills information will be included in the O*NET 15.0 database,
+targeted for release in June 2010.
+
+
+For More Information
+--------------------
+
+For comprehensive information on the contents, structure, and
+relationship of the database files, and a history of changes in each
+database release, please consult the O*NET Data Dictionary 14.0:
+
+http://www.onetcenter.org/dl_files/DataDictionary14_0.pdf
+
+
+Files Included
+--------------
+
+The following files are included in this release:
+
+Abilities.txt
+Content Model Reference.txt
+Education, Training, and Experience.txt
+Education, Training, and Experience Categories.txt
+Interests.txt
+Job Zone Reference.txt
+Job Zones.txt
+Knowledge.txt
+Level Scale Anchors.txt
+Occupation Data.txt
+Occupation Level Metadata.txt
+Read Me.txt
+Scales Reference.txt
+Skills.txt
+Survey Booklet Locations.txt
+Task Categories.txt
+Task Ratings.txt
+Task Statements.txt
+Work Activities.txt
+Work Context.txt
+Work Context Categories.txt
+Work Styles.txt
+Work Values.txt
+
+
+Release Information
+-------------------
+
+June 2009 - initial release
+
+May 12, 2010 - corrected two typographical errors
+
+June 29, 2010 - corrected typographical errors in two files 
+
+Contact Us
+----------
+
+Please send any questions or comments to onet@ncmail.net.

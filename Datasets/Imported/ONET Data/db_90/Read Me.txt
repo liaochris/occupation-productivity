@@ -1,0 +1,114 @@
+O*NET 9.0 Database
+December 2005 Release
+---------------------
+
+The current release of the O*NET database is available online at:
+
+http://www.onetcenter.org/database.html
+
+For information on future releases of the O*NET database, visit
+the O*NET Development Database page at:
+
+http://www.onetcenter.org/dev_db.html
+
+
+New in 9.0
+----------
+
+As of the 9.0 release, the O*NET database features a more readable and
+consistent naming scheme for the included files. In the majority of
+cases, the file structure has not changed, only the name. A comparison
+of 8.0 to 9.0 file names is listed below:
+
+  8.0 Name                               9.0 Name
+  --------                               --------
+  Ability.txt                            Abilities.txt
+  Anchors.txt *                          3 files (see below)
+  EducTrainExp.txt                       Education, Training, and Experience.txt
+  Interest.txt                           Interests.txt
+  job_zone_reference.txt                 Job Zone Reference.txt
+  Knowledge.txt                          Knowledge.txt
+  OccLevelMetadata.txt                   Occupation Level Metadata.txt
+  onet_content_model_reference.txt       Content Model Reference.txt
+  onetsoc_data.txt                       Occupation Data.txt
+  onetsoc_job_zones.txt                  Job Zones.txt
+  scales_reference.txt                   Scales Reference.txt
+  Skills.txt                             Skills.txt
+  Survey_Booklet_Location_Reference.txt  Survey Booklet Locations.txt
+  Tasks.txt                              Tasks.txt
+  WorkActivity.txt                       Work Activities.txt
+  WorkContext.txt                        Work Context.txt
+  WorkStyles.txt                         Work Styles.txt
+  WorkValue.txt                          Work Values.txt
+
+* In the 8.0 and earlier releases, the file Anchors.txt contained
+information relevant to several different content areas. As of the 9.0
+release, this information is now contained in three separate files:
+
+  Level Scale Anchors.txt:
+    This file contains the scale anchors for data elements rated on the
+    Level scale; these variable, item-specific anchors are used in the
+    data collection survey. It covers the Abilities, Knowledge, Skills,
+    and Work Activities content areas.
+  
+  Education, Training, and Experience Categories.txt:
+    This file contains the categories associated with scales in the
+    Education, Training, and Experience content area. Categories are
+    included for the Required Level of Education (RL), Related Work
+    Experience (RW), On-Site or In-Plant Training (PT), and On-The-Job
+    Training (OJ) scales.
+  
+  Work Context Categories.txt:
+    This file contains the categories associated with scales in the
+    Work Context content area. Categories are included for the Context
+    (CXP) and Context Category (CTP) scales.
+
+
+For More Information
+--------------------
+
+For comprehensive information on the contents, structure, and
+relationship of the database files, and a history of changes in each
+database release, please consult the O*NET Data Dictionary 9.0:
+
+http://www.onetcenter.org/dl_files/DataDictionary9_0.pdf
+
+
+Files Included
+--------------
+
+The following files are included in this release:
+
+Abilities.txt
+Content Model Reference.txt
+Education, Training, and Experience.txt
+Education, Training, and Experience Categories.txt
+Interests.txt
+Job Zone Reference.txt
+Job Zones.txt
+Knowledge.txt
+Level Scale Anchors.txt
+Occupation Data.txt
+Occupation Level Metadata.txt
+Read Me.txt
+Scales Reference.txt
+Skills.txt
+Survey Booklet Locations.txt
+Tasks.txt
+Work Activities.txt
+Work Context.txt
+Work Context Categories.txt
+Work Styles.txt
+Work Values.txt
+
+
+Release Information
+-------------------
+
+December 2005 - initial release
+
+
+Contact Us
+----------
+
+Please send any questions or comments to onet@ncmail.net.

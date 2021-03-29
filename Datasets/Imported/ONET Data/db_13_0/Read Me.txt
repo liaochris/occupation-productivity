@@ -1,0 +1,111 @@
+O*NET 13.0 Database
+July 1, 2009 Release
+--------------------
+
+The current release of the O*NET database is available online at:
+
+http://www.onetcenter.org/database.html
+
+For information on future releases of the O*NET database, visit
+the O*NET Development Database page at:
+
+http://www.onetcenter.org/dev_db.html
+
+
+New in 13.0
+-----------
+
+** Tasks **
+
+The layout of the Tasks data has been improved in this release. The
+information previously in "Tasks.txt" can now be found in the three
+files "Task Statements.txt", "Task Ratings.txt", and "Task
+Categories.txt". For more information, please consult the O*NET Data
+Dictionary 13.0 (see below).
+
+As a convenience to developers who have imported Tasks data from
+earlier releases, the 13.0 Tasks data is provided separately in the
+layout used by the O*NET Database releases 5.1 through 12.0. To
+download this separate package, visit the Supplemental Files page at:
+
+http://www.onetcenter.org/supplemental.html
+
+** Work Needs **
+
+Work Needs ratings, previously available in the "Work Values.txt"
+file, have been moved to a separate download package. Developers
+who wish to use these ratings can download the data from the
+Supplemental Files page at:
+
+http://www.onetcenter.org/supplemental.html
+
+** Work Values ** 
+
+For each occupation, a Work Values high-point profile describing
+the top three work values is now available.
+
+
+For More Information
+--------------------
+
+For comprehensive information on the contents, structure, and
+relationship of the database files, and a history of changes in each
+database release, please consult the O*NET Data Dictionary 13.0:
+
+http://www.onetcenter.org/dl_files/DataDictionary13_0.pdf
+
+
+Files Included
+--------------
+
+The following files are included in this release:
+
+Abilities.txt
+Content Model Reference.txt
+Education, Training, and Experience.txt
+Education, Training, and Experience Categories.txt
+Interests.txt
+Job Zone Reference.txt
+Job Zones.txt
+Knowledge.txt
+Level Scale Anchors.txt
+Occupation Data.txt
+Occupation Level Metadata.txt
+Read Me.txt
+Scales Reference.txt
+Skills.txt
+Survey Booklet Locations.txt
+Task Categories.txt
+Task Ratings.txt
+Task Statements.txt
+Work Activities.txt
+Work Context.txt
+Work Context Categories.txt
+Work Styles.txt
+Work Values.txt
+
+
+Release Information
+-------------------
+
+June 2008 - initial release
+
+July 29, 2008 - revised high-point ratings in Interests.txt
+
+September 16, 2008 - revised N metadata in Occupation Level
+                     Metadata.txt
+
+January 27, 2009 - corrected two typos in Task Statements.txt
+
+June 2, 2009 - revised data and metadata for occupation
+               53-5022.00 (Motorboat Operators)
+
+June 17, 2009 - revised ratings and metadata in Abilities.txt
+                and Skills.txt
+
+July 1, 2009 - revised one high-point rating in Interests.txt
+
+Contact Us
+----------
+
+Please send any questions or comments to onet@ncmail.net.

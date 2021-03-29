@@ -1,0 +1,310 @@
+" 			IND CODE 			(2003-onward ACS/PRCS) 		"," 			INDNAICS CODE 			(2003-onward ACS/PRCS) 		",2002 NAICS EQUIVALENT,2007 NAICS EQUIVALENT,INDUSTRY TITLE
+Not Applicable,,,,
+0,0,,,N/A (less than 16 years old/unemployed who never worked/NILF who last worked more than 5 years ago) 
+"Agriculture, Forestry, Fishing and Hunting",,,,
+170,111,111,111,Crop production 
+180,112,112,112,Animal production 
+190,113M,"1131, 1132","1131, 1132",Forestry except logging 
+270,1133,1133,1133,Logging 
+280,114,114,114,"Fishing, hunting, and trapping "
+290,115,115,115,Support activities for agriculture and forestry 
+Mining,,,,
+370,211,211,211,Oil and gas extraction 
+380,2121,2121,2121,Coal mining 
+390,2122,2122,2122,Metal ore mining 
+470,2123,2123,2123,Nonmetallic mineral mining and quarrying 
+480,21S,Part of 21,Part of 21,Not specified type of mining 
+490,213,213,213,Support activities for mining 
+Utilities,,,,
+570,2211P,2211,2211,"Electric power generation, transmission and distribution "
+580,2212P,2212,2212,Natural gas distribution 
+590,221MP,"Pts. 2211, 2212","Pts. 2211, 2212","Electric and gas, and other combinations "
+670,2213M,"22131, 22133","22131, 22133","Water, steam, air conditioning, and irrigation systems "
+680,22132,22132,22132,Sewage treatment facilities 
+690,22S,Part of 22,Part of 22,Not specified utilities 
+Construction,,,,
+770,23,23,23,Construction 
+Manufacturing,,,,
+1070,311M1,"3111, 3112","3111, 3112","Animal food, grain and oilseed milling "
+1080,3113,3113,3113,Sugar and confectionery products 
+1090,3114,3114,3114,Fruit and vegetable preserving and specialty foods 
+1170,3115,3115,3115,Dairy products 
+1180,3116,3116,3116,Animal slaughtering and processing 
+1190,311811,311811,311811,Retail bakeries 
+1270,3118Z,3118 exc. 311811,3118 exc. 311811,"Bakeries, except retail "
+1280,311M2,"3117, 3119","3117, 3119","Seafood and other miscellaneous foods, n.e.c. "
+1290,311S,Part of 311,Part of 311,Not specified food industries 
+1370,3121,3121,3121,Beverage 
+1390,3122,3122,3122,Tobacco 
+1470,3131,3131,3131,"Fiber, yarn, and thread mills "
+1480,3132Z,3132 exc. 31324,3132 exc. 31324,"Fabric mills, except knitting "
+1490,3133,3133,3133,Textile and fabric finishing and coating mills 
+1570,31411,31411,31411,Carpet and rug mills 
+1590,314Z,314 exc.31411,314 exc.31411,Textile product mills except carpets and rugs 
+1670,31M,"31324, 3151","31324, 3151",Knitting mills (2003-2007)
+"Knitting fabric mills, and apparel knitting mills (2008-onward) ",,,,
+1680,3152,3152,3152,Cut and sew apparel 
+1690,3159,3159,3159,Apparel accessories and other apparel 
+1770,3162,3162,3162,Footwear 
+1790,316M,"3161, 3169","3161, 3169","Leather tanning and products, except footwear (2003-2007)"
+Leather tanning and finishing and other allied products manufacturing (2008-onward) ,,,,
+1870,3221,3221,3221,"Pulp, paper, and paperboard mills "
+1880,32221,32221,32221,Paperboard containers and boxes 
+1890,3222M,"32222, 32223, 32229","32222, 32223, 32229",Miscellaneous paper and pulp products 
+1990,323 (2003-2007) ,323,3231,Printing and related support activities 
+3231 (2008-onward) ,,,,
+2070,32411,32411,32411,Petroleum refining 
+2090,3241M (2003-2007 ,"32412, 32419",32419,Miscellaneous petroleum and coal products 
+32419 (2008-onward) ,,,,
+2170,3252,3252,3252,"Resin, synthetic rubber, and fibers and filaments "
+2180,3253,3253,3253,Agricultural chemicals 
+2190,3254,3254,3254,Pharmaceuticals and medicines 
+2270,3255,3255,3255,"Paint, coating, and adhesives "
+2280,3256,3256,3256,"Soap, cleaning compound, and cosmetics "
+2290,325M,"3251, 3259","3251, 3259",Industrial and miscellaneous chemicals 
+2370,3261,3261,3261,Plastics products 
+2380,32621,32621,32621,Tires 
+2390,3262M,"32622, 32629","32622, 32629","Rubber products, except tires "
+2470,32711,32711,32711,"Pottery, ceramics, and related products (2003-2007)"
+"Pottery, ceramics, and plumbing fixture manufacturing (2008-onward) ",,,,
+2480,32712,32712,32712,Structural clay products 
+2490,3272,3272,3272,Glass and glass products 
+2570,327M,"3273, 3274","3273, 3274","Cement, concrete, lime, and gypsum products "
+2590,3279,3279,3279,Miscellaneous nonmetallic mineral products 
+2670,331M,"3311, 3312","3311, 3312",Iron and steel mills and steel products 
+2680,3313,3313,3313,Aluminum production and processing 
+2690,3314,3314,3314,"Nonferrous metal, except aluminum, production and processing "
+2770,3315,3315,3315,Foundries 
+2780,3321,3321,3321,Metal forgings and stampings 
+2790,3322,3322,3322,Cutlery and hand tools 
+2870,332M,"3323, 3324","3323, 3324","Structural metals, and tank and shipping containers (2003-2007)"
+"Structural metals, and boiler, tank, and shipping containers (2008-onward) ",,,,
+2880,3327,3327,3327,"Machine shops; turned products; screws, nuts and bolts "
+2890,3328,3328,3328,"Coating, engraving, heat treating and allied activities "
+2970,33299M,332992-332995,332992-332995,Ordnance 
+2980,332MZ,"3325, 3326, 3329 exc. 332992-332995","3325, 3326, 3329 exc. 332992-332995",Miscellaneous fabricated metal products manufacturing 
+2990,33MS,Part of 331 and 332,Part of 331 and 332,Not specified metal industries 
+3070,33311,33311,33311,Agricultural implements 
+3080,3331M,"33312, 33313","33312, 33313",Construction mining and oil field machinery (2003-2007)
+"Construction, and mining and oil and gas field machinery (2008-onward) ",,,,
+3090,3333,3333,3333,Commercial and service industry machinery 
+3170,3335,3335,3335,Metalworking machinery 
+3180,3336,3336,3336,"Engines, turbines, and power transmission equipment "
+3190,333M,"3332, 3334, 3339","3332, 3334, 3339","Machinery, n.e.c. "
+3290,333S,Part of 333,Part of 333,Not specified machinery 
+3360,3341,3341,3341,Computer and peripheral equipment 
+3370,334M1,"3342, 3343","3342, 3343","Communications, audio, and video equipment "
+3380,3345,3345,3345,"Navigational, measuring, electromedical, and control instruments "
+3390,334M2,"3344, 3346","3344, 3346","Electronic components and products, n.e.c. "
+3470,3352,3352,3352,Household appliances 
+3490,335M,"3351, 3353, 3359","3351, 3353, 3359","Electrical machinery, equipment, and supplies, n.e.c. (2003-2007)"
+"Electric lighting, and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c. (2008-onward) ",,,,
+3570,336M,"3361, 3362, 3363","3361, 3362, 3363",Motor vehicles and motor vehicle equipment 
+3580,33641M1,336411-336413,336411-336413,Aircraft and parts 
+3590,33641M2,336414-336419,336414-336419,Aerospace products and parts 
+3670,3365,3365,3365,Railroad rolling stock 
+3680,3366,3366,3366,Ship and boat building 
+3690,3369,3369,3369,Other transportation equipment 
+3770,3211,3211,3211,Sawmills and wood preservation 
+3780,3212,3212,3212,"Veneer, plywood, and engineered wood products "
+3790,32199M,"321,991,321,992","321,991,321,992",Prefabricated wood buildings and mobile homes 
+3870,3219ZM,"3219 exc. 321991, 321992","3219 exc. 321991, 321992",Miscellaneous wood products 
+3890,337,337,337,Furniture and fixtures 
+3960,3391,3391,3391,Medical equipment and supplies 
+3970,3399M,"33992, 33993","33992, 33993","Toys, amusement, and sporting goods (2003-2007) "
+"Sporting and athletic goods, and doll, toy, and game manufacturing (2008-onward) ",,,,
+3980,3399ZM,"3399 exc. 33992, 33993","3399 exc. 33992, 33993","Miscellaneous manufacturing, n.e.c. "
+3990,3MS,Part of 31-33,Part of 31-33,Not specified industries 
+Wholesale Trade,,,,
+4070,4231,4231,4231,"Motor vehicles, parts and supplies (2003-2007)"
+"Motor vehicles, parts and supplies, merchant wholesalers (2008-onward) ",,,,
+4080,4232,4232,4232,Furniture and home furnishing 
+4090,4233,4233,4233,Lumber and other construction materials 
+4170,"4234 	 ",4234,4234,Professional and commercial equipment and supplies 
+4180,4235,4235,4235,"Metals and minerals, except petroleum "
+4190,4236,4236,4236,Electrical goods (2003-2007)
+"Electrical and electronic goods, merchant wholesalers (2008-onward) ",,,,
+4260,4237,4237,4237,"Hardware, plumbing and heating equipment, and supplies "
+4270,4238,4238,4238,"Machinery, equipment, and supplies "
+4280,42393,42393,42393,Recyclable material 
+4290,4239Z,4239 exc. 42393,4239 exc. 42393,Miscellaneous durable goods 
+4370,4241,4241,4241,Paper and paper products 
+4380,424M,"4242, 4246","4242, 4246","Drugs, sundries, and chemical and allied products "
+4390,4243,4243,4243,"Apparel, fabrics, and notions "
+4470,4244,4244,4244,Groceries and related products 
+4480,4245,4245,4245,Farm product raw materials 
+4490,4247,4247,4247,Petroleum and petroleum products 
+4560,4248,4248,4248,Alcoholic beverages 
+4570,42491,42491,42491,Farm supplies 
+4580,4249Z,4249 exc. 42491,4249 exc. 42491,"Miscellaneous nondurable goods, merchant wholesalers "
+4585,4251,4251,4251,"Wholesale electronic markets, agents and brokers "
+4590,42S,Part of 42,Part of 42,Not specified trade 
+Retail Trade,,,,
+4670,4411,4411,4411,Automobile dealers 
+4680,4412,4412,4412,Other motor vehicle dealers 
+4690,4413,4413,4413,"Auto parts, accessories, and tire stores "
+4770,442,442,442,Furniture and home furnishings stores 
+4780,443111,443111,443111,Household appliance stores 
+4790,4431M,"443112, 44312","443112, 44312","Radio, tv, and computer stores "
+4870,4441Z,4441 exc. 44413,4441 exc. 44413,Building material and supplies dealers 
+4880,44413,44413,44413,Hardware stores 
+4890,4442,4442,4442,Lawn and garden equipment and supplies stores 
+4970,4451,4451,4451,Grocery stores 
+4980,4452,4452,4452,Specialty food stores 
+4990,4453,4453,4453,"Beer, wine, and liquor stores "
+5070,44611,44611,44611,Pharmacies and drug stores 
+5080,446Z,446 exc. 44611,446 exc. 44611,"Health and personal care, except drug, stores "
+5090,447,447,447,Gasoline stations 
+5170,448ZM (2003-2007) ,"448 exc. 44821, 4483",4481,"Clothing and accessories, except shoe, stores (2003-2007)"
+4481 (2008-onward) ,Clothing stores (2008-onward) ,,,
+5180,44821,44821,44821,Shoe stores 
+5190,4483,4483,4483,"Jewelry, luggage,and leather goods stores "
+5270,4M,"44313, 45111, 45112","44313, 45111, 45112","Sporting goods, camera, and hobby and toy stores "
+5280,45113,45113,45113,"Sewing, needlework and piece goods stores "
+5290,451M,"45114, 45122","45114, 45122",Music stores 
+5370,45121,45121,45121,Book stores and news dealers 
+5380,45211,45211,45211,Department stores 
+5390,4529,4529,4529,Miscellaneous general merchandise stores 
+5470,4531,4531,4531,Florists 
+5480,45321,45321,45321,Office supplies and stationary stores 
+5490,4533,4533,4533,Used merchandise stores 
+5570,45322,45322,45322,"Gift, novelty, and souvenir shops "
+5580,4539,4539,4539,Miscellaneous retail stores 
+5590,4541 (2003-2004),4541 (2003-2004),454111,Electronic shopping and mail-order houses (2003-2004) 
+454111 (2005-onward) ,454111 (2005-onward) ,Electronic shopping (2005-onward),,
+5591 (2005-onward only) ,454112,454112,454112,Electronic auctions
+5592 (2005-onward only),454113,454113,454113,Mail-order houses
+5670,4542,4542,4542,Vending machine operators 
+5680,45431,45431,45431,Fuel dealers 
+5690,45439,45439,45439,Other direct selling establishments 
+5790,4MS,Part of 44-45,Part of 44-45,Not specified retail trade 
+Transportation and Warehousing,,,,
+6070,481,481,481,Air transportation 
+6080,482,482,482,Rail transportation 
+6090,483,483,483,Water transportation 
+6170,484,484,484,Truck transportation 
+6180,485M,"4851, 4852, 4854-4859","4851, 4852, 4854-4859",Bus service and urban transit 
+6190,4853,4853,4853,Taxi and limousine service 
+6270,486,486,486,Pipeline transportation 
+6280,487,487,487,Scenic and sightseeing transportation 
+6290,488,488,488,Services incidental to transportation 
+6370,491,491,491,Postal service 
+6380,492,492,492,Couriers and messengers 
+6390,493,493,493,Warehousing and storage 
+Information and Communications,,,,
+6470,51111,51111,51111,Newspaper publishers 
+6480,5111Z,5111 exc. 51111,5111 exc. 51111,"Publishing, except newspapers and software (2003-2007)"
+"Periodical, book, and directory publishers (2008-onward) ",,,,
+6490,5112,5112,5112,Software publishing 
+6570,5121,5121,5121,Motion pictures and video industries 
+6590,5122,5122,5122,Sound recording industries 
+6670, 51M (2003-2007),"5131, 5132",515,Radio and television broadcasting and cable (2003-2007)
+515 (2008-onward) ,"Broadcasting, except Internet (2008-onward) ",,,
+6672 (2008-onward only) ,51913,N/A,51913,Internet publishing and broadcasting and web search portals 
+6675 (2003-2007 only) ,5161,5161,------,Internet publishing and broadcasting 
+6680,"5171 	 ",51331,51331,Wired telecommunications carriers 
+6690,"517Z 	 ",5133 exc. 51331,5133 exc. 51331,Other telecommunication services (2003-2007)
+"Telecommunications, except wired telecommunications carriers (2008-onward) ",,,,
+6692 (2003-2007 only) ,5181,5181,------,Internet service providers
+6695,5182,5182,5182,"Data processing, hosting, and related services "
+6770,"51912 	 ",51412,51412,Libraries and archives 
+6780,5191Z (2003-2007) ,5141 exc. 51412,"5191 exc. 51912, 51913 ", 
+"5191ZM 	(2008-onward)",,,,
+6790,5142,5142,5142,Data processing services 
+"Finance, Insurance, Real Estate, and Rental and Leasing",,,,
+6870,52M1,"521, 52211, 52219","521, 52211, 52219",Banking and related activities 
+6880,5221M,"52212, 52213","52212, 52213","Savings institutions, including credit unions "
+6890,522M,"5222, 5223","5222, 5223",Non-depository credit and related activities 
+6970,52M2,"523, 525","523, 525","Securities, commodities, funds, trusts, and other financial investments "
+6990,524,524,524,Insurance carriers and related activities 
+7070,531,531,531,Real estate 
+7080,5321,5321,5321,Automotive equipment rental and leasing 
+7170,53223,53223,53223,Video tape and disk rental 
+7180,532M,"53221, 53222, 53229, 5323","53221, 53222, 53229, 5323",Other consumer goods rental 
+7190,53M,"5324, 533","5324, 533","Commercial, industrial, and other intangible assets rental and leasing "
+"Professional, Scientific, Management, Administrative, and Waste Management Services",,,,
+7270,5411,5411,5411,Legal services 
+7280,5412,5412,5412,"Accounting, tax preparation, bookkeeping and payroll services "
+7290,5413,5413,5413,"Architectural, engineering, and related services "
+7370,5414,5414,5414,Specialized design services 
+7380,5415,5415,5415,Computer systems design and related services 
+7390,5416,5416,5416,"Management, scientific and technical consulting services "
+7460,5417,5417,5417,Scientific research and development services 
+7470,5418,5418,5418,Advertising and related services 
+7480,54194,54194,54194,Veterinary services 
+7490,5419Z,5419 exc. 54194,5419 exc. 54194,"Other professional, scientific and technical services "
+7570,55,551,551,Management of companies and enterprises 
+7580,5613,5613,5613,Employment services 
+7590,5614,5614,5614,Business support services 
+7670,5615,5615,5615,Travel arrangements and reservation services 
+7680,5616,5616,5616,Investigation and security services 
+7690,5617Z,5617 exc. 56173,5617 exc. 56173,Services to buildings and dwellings 
+7770,56173,56173,56173,Landscaping services 
+7780,561M,"5611, 5612, 5619","5611, 5612, 5619","Other administrative, and other support services "
+7790,562,562,562,Waste management and remediation services 
+"Educational, Health and Social Services",,,,
+7860,6111,6111,6111,Elementary and secondary schools 
+7870,611M1,"6112, 6113","6112, 6113","Colleges, including junior colleges, and universities "
+7880,611M2,"6114, 6115","6114, 6115","Business, technical, and trade schools and training "
+7890,611M3,"6116, 6117","6116, 6117","Other schools, instruction and educational services "
+7970,6211,6211,6211,Offices of physicians 
+7980,6212,6212,6212,Offices of dentists 
+7990,62131,62131,62131,Office of chiropractors 
+8070,62132,62132,62132,Offices of optometrists 
+8080,6213ZM,"6213 exc. 62131, 62132","6213 exc. 62131, 62132",Offices of other health practitioners 
+8090,6214,6214,6214,Outpatient care centers 
+8170,6216,6216,6216,Home health care services 
+8180,621M,"6215, 6219","6215, 6219",Other health care services 
+8190,622,622,622,Hospitals 
+8270,6231,6231,6231,Nursing care facilities 
+8290,623M,"6232, 6233, 6239","6232, 6233, 6239","Residential care facilities, without nursing "
+8370,6241,6241,6241,Individual and family services 
+8380,6242,6242,6242,"Community food and housing, and emergency services "
+8390,6243,6243,6243,Vocational rehabilitation services 
+8470,6244,6244,6244,Child day care services 
+"Arts, Entertainment, Recreation, Accommodations, and Food Services",,,,
+8560,711,711,711,"Independent artists, performing arts, spectator sports and related industries "
+8570,712,712,712,"Museums, art galleries, historical sites, and similar institutions "
+8580,71395,71395,71395,Bowling centers 
+8590,713Z,713 exc. 71395,713 exc. 71395,"Other amusement, gambling, and recreation industries "
+8660,7211,7211,7211,Traveler accommodation 
+8670,721M,"7212, 7213","7212, 7213","Recreational vehicle parks and camps, and rooming and boarding houses "
+8680,722Z,722 exc. 7224,722 exc. 7224,Restaurants and other food services 
+8690,7224,7224,7224,"Drinking places, alcohol beverages "
+Other Services (Except Public Administration),,,,
+8770,8111Z,8111 exc. 811192,8111 exc. 811192,Automotive repair and maintenance 
+8780,811192,811192,811192,Car washes 
+8790,8112,8112,8112,Electronic and precision equipment repair and maintenance 
+8870,8113,8113,8113,Commercial and industrial machinery and equipment repair and maintenance 
+8880,8114Z (8114 in 2005-onward.  Incl. 81143 in 2005-onward.),8114 exc. 81143,8114 exc. 81143,Personal and household goods repair and maintenance 
+8890,81143 (pt. of 8114 in 2005-onward.),81143,81143,Footwear and leather goods repair 
+8970,812111,812111,812111,Barber shops 
+8980,812112,812112,812112,Beauty salons 
+8990,8121M,"81,211,381,219","81,211,381,219",Nail salons and other personal care services 
+9070,8123,8123,8123,Drycleaning and laundry services 
+9080,8122,8122,8122,"Funeral homes, cemeteries and crematories "
+9090,8129,8129,8129,Other personal services 
+9160,8131,8131,8131,Religious organizations 
+9170,813M,"8132,8133, 8134","8132,8133, 8134","Civic, social, advocacy organizations and grantmaking and giving services "
+9180,81393,81393,81393,Labor unions 
+9190,8139Z,8139 exc.81393,8139 exc.81393,"Business, professional, political and similar organizations "
+9290,814,814,814,Private households 
+Public Administration,,,,
+9370,9211MP,"92111, 92112, 92114, pt. 92115","92111, 92112, 92114, pt. 92115",Executive offices and legislative bodies 
+9380,92113,92113,92113,Public finance activities 
+9390,92119,92119,92119,Other general government and support 
+9470,92MP,"922, pt. 92115","922, pt. 92115","Justice, public order, and safety activities "
+9480,923,923,923,Administration of human resource programs 
+9490,92M1,"924, 925","924, 925",Administration of environmental quality and housing programs 
+9570,92M2,"926, 927","926, 927",Administration of economic programs and space research 
+9590,928P,928 (exc. 928110),928 (exc. 928110),National security and international affairs 
+Active Duty Military,,,,
+9670,928110P1,928110,928110,U.S. Army 
+9680,928110P2,928110,928110,U.S. Air Force 
+9690,928110P3,928110,928110,U.S. Navy 
+9770,928110P4,928110,928110,U.S. Marines 
+9780,928110P5 ,928110,928110,U.S. Coast Guard 
+9790,928110P6,928110,928110,"U.S. Armed forces, branch not specified "
+9870,928110P7,928110,928110,Military reserves or national guard 
+Unemployed,,,,
+9920,9920,,,"Unemployed, with no work experience in past 5 years"

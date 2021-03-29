@@ -1,0 +1,84 @@
+O*NET 18.0 Database
+July 2013 Release
+-----------------
+
+The current release of the O*NET database is available online at:
+
+http://www.onetcenter.org/database.html
+
+For information on future releases of the O*NET database, visit
+the O*NET Development Database page at:
+
+http://www.onetcenter.org/dev_db.html
+
+
+New in 18.0
+-----------
+
+105 occupations were comprehensively updated, bringing the total to
+921, in this fourteenth major update from the O*NET Data Collection
+Program. Highlights of this update include:
+
+* Addition and update of Task Statement ratings (importance,
+  relevance, and frequency) for 134 occupations
+* Addition and update of Abilities, Skills, Work Activities,
+  Knowledge, and Work Context data for 105 occupations
+* Addition and update of Training and Work Experience and Education
+  data for 105 occupations
+* Addition and update of Work Styles data for 105 occupations
+* Addition and update of Job Zones data for 105 occupations
+* Addition and update of Interests data for 83 occupations
+
+
+For More Information
+--------------------
+
+For comprehensive information on the contents, structure, and
+relationship of the database files, and a history of changes in each
+database release, please consult the O*NET Data Dictionary 18.0:
+
+http://www.onetcenter.org/dl_files/DataDictionary18_0.pdf
+
+
+Files Included
+--------------
+
+The following files are included in this release:
+
+Abilities.txt
+Content Model Reference.txt
+Education, Training, and Experience.txt
+Education, Training, and Experience Categories.txt
+Green Occupations.txt
+Green Task Statements.txt
+Interests.txt
+Job Zone Reference.txt
+Job Zones.txt
+Knowledge.txt
+Level Scale Anchors.txt
+Occupation Data.txt
+Occupation Level Metadata.txt
+Read Me.txt
+Scales Reference.txt
+Skills.txt
+Survey Booklet Locations.txt
+Task Categories.txt
+Task Ratings.txt
+Task Statements.txt
+Work Activities.txt
+Work Context.txt
+Work Context Categories.txt
+Work Styles.txt
+Work Values.txt
+
+
+Release Information
+-------------------
+
+July 2013 - initial release
+
+
+Contact Us
+----------
+
+Please send any questions or comments to onet@onetcenter.org.

@@ -1,0 +1,1189 @@
+ONET-SOC Code	Item	Response	N	Percent	Date
+11-2022.00	O*NET-SOC Establishment Response Rate	n/a	n/a	64.1	3/2003
+11-2022.00	O*NET-SOC Employee Response Rate	n/a	n/a	60.4	3/2003
+11-2022.00	O*NET-SOC Case Completeness Rate	n/a	n/a	89.6	3/2003
+11-2022.00	Total Completes for O*NET-SOC	n/a	86	n/a	3/2003
+11-2022.00	Data Collection Mode	Paper	76	88.4	3/2003
+11-2022.00	Data Collection Mode	Web	10	11.6	3/2003
+11-2022.00	How Long at Current Job	10 Years or More	33	38.4	3/2003
+11-2022.00	How Long at Current Job	6-9 Years	8	9.3	3/2003
+11-2022.00	How Long at Current Job	1-5 Years	37	43	3/2003
+11-2022.00	How Long at Current Job	<1 Year	8	9.3	3/2003
+11-2022.00	How Long at Current Job	Missing	0	0	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	4	4.7	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	29	33.7	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	4	4.7	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	24	27.9	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	13	15.1	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	2	2.3	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	10	11.6	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+11-2022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+11-3011.00	O*NET-SOC Establishment Response Rate	n/a	n/a	68.8	3/2003
+11-3011.00	O*NET-SOC Employee Response Rate	n/a	n/a	79.6	3/2003
+11-3011.00	O*NET-SOC Case Completeness Rate	n/a	n/a	71.7	3/2003
+11-3011.00	Total Completes for O*NET-SOC	n/a	114	n/a	3/2003
+11-3011.00	Data Collection Mode	Paper	93	81.6	3/2003
+11-3011.00	Data Collection Mode	Web	21	18.4	3/2003
+11-3011.00	How Long at Current Job	10 Years or More	44	38.6	3/2003
+11-3011.00	How Long at Current Job	6-9 Years	21	18.4	3/2003
+11-3011.00	How Long at Current Job	1-5 Years	38	33.3	3/2003
+11-3011.00	How Long at Current Job	<1 Year	11	9.6	3/2003
+11-3011.00	How Long at Current Job	Missing	0	0	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	2	1.8	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	4	3.5	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	12	10.5	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	3	2.6	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	1	.9	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	2	1.8	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	7	6.1	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	52	45.6	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	31	27.2	3/2003
+11-3011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+11-3051.00	O*NET-SOC Establishment Response Rate	n/a	n/a	60.2	3/2003
+11-3051.00	O*NET-SOC Employee Response Rate	n/a	n/a	68.5	3/2003
+11-3051.00	O*NET-SOC Case Completeness Rate	n/a	n/a	89.4	3/2003
+11-3051.00	Total Completes for O*NET-SOC	n/a	76	n/a	3/2003
+11-3051.00	Data Collection Mode	Paper	66	86.8	3/2003
+11-3051.00	Data Collection Mode	Web	10	13.2	3/2003
+11-3051.00	How Long at Current Job	10 Years or More	33	43.4	3/2003
+11-3051.00	How Long at Current Job	6-9 Years	13	17.1	3/2003
+11-3051.00	How Long at Current Job	1-5 Years	25	32.9	3/2003
+11-3051.00	How Long at Current Job	<1 Year	5	6.6	3/2003
+11-3051.00	How Long at Current Job	Missing	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	74	97.4	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	2	2.6	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+11-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+11-9111.00	O*NET-SOC Establishment Response Rate	n/a	n/a	64.5	3/2003
+11-9111.00	O*NET-SOC Employee Response Rate	n/a	n/a	57.5	3/2003
+11-9111.00	O*NET-SOC Case Completeness Rate	n/a	n/a	94.2	3/2003
+11-9111.00	Total Completes for O*NET-SOC	n/a	65	n/a	3/2003
+11-9111.00	Data Collection Mode	Paper	51	78.5	3/2003
+11-9111.00	Data Collection Mode	Web	14	21.5	3/2003
+11-9111.00	How Long at Current Job	10 Years or More	24	36.9	3/2003
+11-9111.00	How Long at Current Job	6-9 Years	7	10.8	3/2003
+11-9111.00	How Long at Current Job	1-5 Years	26	40	3/2003
+11-9111.00	How Long at Current Job	<1 Year	7	10.8	3/2003
+11-9111.00	How Long at Current Job	Missing	1	1.5	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	61	93.8	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	4	6.2	3/2003
+11-9111.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+13-1022.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63	3/2003
+13-1022.00	O*NET-SOC Employee Response Rate	n/a	n/a	55	3/2003
+13-1022.00	O*NET-SOC Case Completeness Rate	n/a	n/a	79.5	3/2003
+13-1022.00	Total Completes for O*NET-SOC	n/a	70	n/a	3/2003
+13-1022.00	Data Collection Mode	Paper	60	85.7	3/2003
+13-1022.00	Data Collection Mode	Web	10	14.3	3/2003
+13-1022.00	How Long at Current Job	10 Years or More	30	42.9	3/2003
+13-1022.00	How Long at Current Job	6-9 Years	11	15.7	3/2003
+13-1022.00	How Long at Current Job	1-5 Years	23	32.9	3/2003
+13-1022.00	How Long at Current Job	<1 Year	6	8.6	3/2003
+13-1022.00	How Long at Current Job	Missing	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	1	1.4	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	27	38.6	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	42	60	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+13-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+13-1051.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.4	3/2003
+13-1051.00	O*NET-SOC Employee Response Rate	n/a	n/a	63.6	3/2003
+13-1051.00	O*NET-SOC Case Completeness Rate	n/a	n/a	88.3	3/2003
+13-1051.00	Total Completes for O*NET-SOC	n/a	91	n/a	3/2003
+13-1051.00	Data Collection Mode	Paper	81	89	3/2003
+13-1051.00	Data Collection Mode	Web	10	11	3/2003
+13-1051.00	How Long at Current Job	10 Years or More	49	53.8	3/2003
+13-1051.00	How Long at Current Job	6-9 Years	19	20.9	3/2003
+13-1051.00	How Long at Current Job	1-5 Years	19	20.9	3/2003
+13-1051.00	How Long at Current Job	<1 Year	4	4.4	3/2003
+13-1051.00	How Long at Current Job	Missing	0	0	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	8	8.8	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	1	1.1	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	55	60.4	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	19	20.9	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	2	2.2	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	2	2.2	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	4	4.4	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+13-1051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+13-1073.00	O*NET-SOC Establishment Response Rate	n/a	n/a	67.1	3/2003
+13-1073.00	O*NET-SOC Employee Response Rate	n/a	n/a	78	3/2003
+13-1073.00	O*NET-SOC Case Completeness Rate	n/a	n/a	76	3/2003
+13-1073.00	Total Completes for O*NET-SOC	n/a	73	n/a	3/2003
+13-1073.00	Data Collection Mode	Paper	55	75.3	3/2003
+13-1073.00	Data Collection Mode	Web	18	24.7	3/2003
+13-1073.00	How Long at Current Job	10 Years or More	15	20.5	3/2003
+13-1073.00	How Long at Current Job	6-9 Years	11	15.1	3/2003
+13-1073.00	How Long at Current Job	1-5 Years	34	46.6	3/2003
+13-1073.00	How Long at Current Job	<1 Year	13	17.8	3/2003
+13-1073.00	How Long at Current Job	Missing	0	0	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	6	8.2	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	7	9.6	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	11	15.1	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	47	64.4	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	2	2.7	3/2003
+13-1073.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+13-2011.01	O*NET-SOC Establishment Response Rate	n/a	n/a	66.7	3/2003
+13-2011.01	O*NET-SOC Employee Response Rate	n/a	n/a	68.8	3/2003
+13-2011.01	O*NET-SOC Case Completeness Rate	n/a	n/a	82.3	3/2003
+13-2011.01	Total Completes for O*NET-SOC	n/a	107	n/a	3/2003
+13-2011.01	Data Collection Mode	Paper	78	72.9	3/2003
+13-2011.01	Data Collection Mode	Web	29	27.1	3/2003
+13-2011.01	How Long at Current Job	10 Years or More	39	36.4	3/2003
+13-2011.01	How Long at Current Job	6-9 Years	15	14	3/2003
+13-2011.01	How Long at Current Job	1-5 Years	42	39.3	3/2003
+13-2011.01	How Long at Current Job	<1 Year	11	10.3	3/2003
+13-2011.01	How Long at Current Job	Missing	0	0	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	14	13.1	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	4	3.7	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	13	12.1	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	3	2.8	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	16	15	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	56	52.3	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	1	.9	3/2003
+13-2011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+17-1011.00	O*NET-SOC Establishment Response Rate	n/a	n/a	64.9	3/2003
+17-1011.00	O*NET-SOC Employee Response Rate	n/a	n/a	68.5	3/2003
+17-1011.00	O*NET-SOC Case Completeness Rate	n/a	n/a	92.4	3/2003
+17-1011.00	Total Completes for O*NET-SOC	n/a	85	n/a	3/2003
+17-1011.00	Data Collection Mode	Paper	73	85.9	3/2003
+17-1011.00	Data Collection Mode	Web	12	14.1	3/2003
+17-1011.00	How Long at Current Job	10 Years or More	56	65.9	3/2003
+17-1011.00	How Long at Current Job	6-9 Years	6	7.1	3/2003
+17-1011.00	How Long at Current Job	1-5 Years	17	20	3/2003
+17-1011.00	How Long at Current Job	<1 Year	6	7.1	3/2003
+17-1011.00	How Long at Current Job	Missing	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	85	100	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+17-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+17-1012.00	O*NET-SOC Establishment Response Rate	n/a	n/a	70.6	3/2003
+17-1012.00	O*NET-SOC Employee Response Rate	n/a	n/a	78.3	3/2003
+17-1012.00	O*NET-SOC Case Completeness Rate	n/a	n/a	91.7	3/2003
+17-1012.00	Total Completes for O*NET-SOC	n/a	77	n/a	3/2003
+17-1012.00	Data Collection Mode	Paper	74	96.1	3/2003
+17-1012.00	Data Collection Mode	Web	3	3.9	3/2003
+17-1012.00	How Long at Current Job	10 Years or More	26	33.8	3/2003
+17-1012.00	How Long at Current Job	6-9 Years	16	20.8	3/2003
+17-1012.00	How Long at Current Job	1-5 Years	28	36.4	3/2003
+17-1012.00	How Long at Current Job	<1 Year	6	7.8	3/2003
+17-1012.00	How Long at Current Job	Missing	1	1.3	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	52	67.5	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	19	24.7	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	6	7.8	3/2003
+17-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+17-2051.00	O*NET-SOC Establishment Response Rate	n/a	n/a	66.3	3/2003
+17-2051.00	O*NET-SOC Employee Response Rate	n/a	n/a	74.5	3/2003
+17-2051.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93.5	3/2003
+17-2051.00	Total Completes for O*NET-SOC	n/a	72	n/a	3/2003
+17-2051.00	Data Collection Mode	Paper	62	86.1	3/2003
+17-2051.00	Data Collection Mode	Web	10	13.9	3/2003
+17-2051.00	How Long at Current Job	10 Years or More	31	43.1	3/2003
+17-2051.00	How Long at Current Job	6-9 Years	18	25	3/2003
+17-2051.00	How Long at Current Job	1-5 Years	18	25	3/2003
+17-2051.00	How Long at Current Job	<1 Year	5	6.9	3/2003
+17-2051.00	How Long at Current Job	Missing	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	8	11.1	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	1	1.4	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	47	65.3	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	16	22.2	3/2003
+17-2051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+17-3011.01	O*NET-SOC Establishment Response Rate	n/a	n/a	66.6	3/2003
+17-3011.01	O*NET-SOC Employee Response Rate	n/a	n/a	63.1	3/2003
+17-3011.01	O*NET-SOC Case Completeness Rate	n/a	n/a	84.8	3/2003
+17-3011.01	Total Completes for O*NET-SOC	n/a	84	n/a	3/2003
+17-3011.01	Data Collection Mode	Paper	68	81	3/2003
+17-3011.01	Data Collection Mode	Web	16	19	3/2003
+17-3011.01	How Long at Current Job	10 Years or More	16	19	3/2003
+17-3011.01	How Long at Current Job	6-9 Years	10	11.9	3/2003
+17-3011.01	How Long at Current Job	1-5 Years	47	56	3/2003
+17-3011.01	How Long at Current Job	<1 Year	10	11.9	3/2003
+17-3011.01	How Long at Current Job	Missing	1	1.2	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	4	4.8	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	15	17.9	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	2	2.4	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	62	73.8	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	1	1.2	3/2003
+17-3011.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+19-1020.01	O*NET-SOC Establishment Response Rate	n/a	n/a	75	3/2003
+19-1020.01	O*NET-SOC Employee Response Rate	n/a	n/a	76	3/2003
+19-1020.01	O*NET-SOC Case Completeness Rate	n/a	n/a	81.6	3/2003
+19-1020.01	Total Completes for O*NET-SOC	n/a	80	n/a	3/2003
+19-1020.01	Data Collection Mode	Paper	66	82.5	3/2003
+19-1020.01	Data Collection Mode	Web	14	17.5	3/2003
+19-1020.01	How Long at Current Job	10 Years or More	37	46.3	3/2003
+19-1020.01	How Long at Current Job	6-9 Years	7	8.8	3/2003
+19-1020.01	How Long at Current Job	1-5 Years	28	35	3/2003
+19-1020.01	How Long at Current Job	<1 Year	8	10	3/2003
+19-1020.01	How Long at Current Job	Missing	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	9	11.3	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	23	28.8	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	48	60	3/2003
+19-1020.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+19-1032.00	O*NET-SOC Establishment Response Rate	n/a	n/a	81.7	3/2003
+19-1032.00	O*NET-SOC Employee Response Rate	n/a	n/a	79.8	3/2003
+19-1032.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93	3/2003
+19-1032.00	Total Completes for O*NET-SOC	n/a	66	n/a	3/2003
+19-1032.00	Data Collection Mode	Paper	53	80.3	3/2003
+19-1032.00	Data Collection Mode	Web	13	19.7	3/2003
+19-1032.00	How Long at Current Job	10 Years or More	35	53	3/2003
+19-1032.00	How Long at Current Job	6-9 Years	9	13.6	3/2003
+19-1032.00	How Long at Current Job	1-5 Years	16	24.2	3/2003
+19-1032.00	How Long at Current Job	<1 Year	6	9.1	3/2003
+19-1032.00	How Long at Current Job	Missing	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	9	13.6	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	57	86.4	3/2003
+19-1032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+19-3051.00	O*NET-SOC Establishment Response Rate	n/a	n/a	74.5	3/2003
+19-3051.00	O*NET-SOC Employee Response Rate	n/a	n/a	79.1	3/2003
+19-3051.00	O*NET-SOC Case Completeness Rate	n/a	n/a	92.3	3/2003
+19-3051.00	Total Completes for O*NET-SOC	n/a	84	n/a	3/2003
+19-3051.00	Data Collection Mode	Paper	57	67.9	3/2003
+19-3051.00	Data Collection Mode	Web	27	32.1	3/2003
+19-3051.00	How Long at Current Job	10 Years or More	21	25	3/2003
+19-3051.00	How Long at Current Job	6-9 Years	16	19	3/2003
+19-3051.00	How Long at Current Job	1-5 Years	33	39.3	3/2003
+19-3051.00	How Long at Current Job	<1 Year	13	15.5	3/2003
+19-3051.00	How Long at Current Job	Missing	1	1.2	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	8	9.5	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	76	90.5	3/2003
+19-3051.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+21-1021.00	O*NET-SOC Establishment Response Rate	n/a	n/a	77.3	3/2003
+21-1021.00	O*NET-SOC Employee Response Rate	n/a	n/a	78.3	3/2003
+21-1021.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93.5	3/2003
+21-1021.00	Total Completes for O*NET-SOC	n/a	101	n/a	3/2003
+21-1021.00	Data Collection Mode	Paper	90	89.1	3/2003
+21-1021.00	Data Collection Mode	Web	11	10.9	3/2003
+21-1021.00	How Long at Current Job	10 Years or More	18	17.8	3/2003
+21-1021.00	How Long at Current Job	6-9 Years	14	13.9	3/2003
+21-1021.00	How Long at Current Job	1-5 Years	57	56.4	3/2003
+21-1021.00	How Long at Current Job	<1 Year	12	11.9	3/2003
+21-1021.00	How Long at Current Job	Missing	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	78	77.2	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	23	22.8	3/2003
+21-1021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+21-1022.00	O*NET-SOC Establishment Response Rate	n/a	n/a	69.3	3/2003
+21-1022.00	O*NET-SOC Employee Response Rate	n/a	n/a	69.5	3/2003
+21-1022.00	O*NET-SOC Case Completeness Rate	n/a	n/a	84.8	3/2003
+21-1022.00	Total Completes for O*NET-SOC	n/a	89	n/a	3/2003
+21-1022.00	Data Collection Mode	Paper	81	91	3/2003
+21-1022.00	Data Collection Mode	Web	8	9	3/2003
+21-1022.00	How Long at Current Job	10 Years or More	29	32.6	3/2003
+21-1022.00	How Long at Current Job	6-9 Years	14	15.7	3/2003
+21-1022.00	How Long at Current Job	1-5 Years	34	38.2	3/2003
+21-1022.00	How Long at Current Job	<1 Year	12	13.5	3/2003
+21-1022.00	How Long at Current Job	Missing	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	86	96.6	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	3	3.4	3/2003
+21-1022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+21-1023.00	O*NET-SOC Establishment Response Rate	n/a	n/a	76	3/2003
+21-1023.00	O*NET-SOC Employee Response Rate	n/a	n/a	68.8	3/2003
+21-1023.00	O*NET-SOC Case Completeness Rate	n/a	n/a	88.9	3/2003
+21-1023.00	Total Completes for O*NET-SOC	n/a	192	n/a	3/2003
+21-1023.00	Data Collection Mode	Paper	174	90.6	3/2003
+21-1023.00	Data Collection Mode	Web	18	9.4	3/2003
+21-1023.00	How Long at Current Job	10 Years or More	53	27.6	3/2003
+21-1023.00	How Long at Current Job	6-9 Years	27	14.1	3/2003
+21-1023.00	How Long at Current Job	1-5 Years	85	44.3	3/2003
+21-1023.00	How Long at Current Job	<1 Year	27	14.1	3/2003
+21-1023.00	How Long at Current Job	Missing	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	181	94.3	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	11	5.7	3/2003
+21-1023.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+27-1011.00	O*NET-SOC Establishment Response Rate	n/a	n/a	67.3	3/2003
+27-1011.00	O*NET-SOC Employee Response Rate	n/a	n/a	72.1	3/2003
+27-1011.00	O*NET-SOC Case Completeness Rate	n/a	n/a	94.7	3/2003
+27-1011.00	Total Completes for O*NET-SOC	n/a	71	n/a	3/2003
+27-1011.00	Data Collection Mode	Paper	42	59.2	3/2003
+27-1011.00	Data Collection Mode	Web	29	40.8	3/2003
+27-1011.00	How Long at Current Job	10 Years or More	22	31	3/2003
+27-1011.00	How Long at Current Job	6-9 Years	11	15.5	3/2003
+27-1011.00	How Long at Current Job	1-5 Years	30	42.3	3/2003
+27-1011.00	How Long at Current Job	<1 Year	8	11.3	3/2003
+27-1011.00	How Long at Current Job	Missing	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	16	22.5	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	1	1.4	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	54	76.1	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+27-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+27-1024.00	O*NET-SOC Establishment Response Rate	n/a	n/a	67.5	3/2003
+27-1024.00	O*NET-SOC Employee Response Rate	n/a	n/a	65.4	3/2003
+27-1024.00	O*NET-SOC Case Completeness Rate	n/a	n/a	92.2	3/2003
+27-1024.00	Total Completes for O*NET-SOC	n/a	94	n/a	3/2003
+27-1024.00	Data Collection Mode	Paper	69	73.4	3/2003
+27-1024.00	Data Collection Mode	Web	25	26.6	3/2003
+27-1024.00	How Long at Current Job	10 Years or More	26	27.7	3/2003
+27-1024.00	How Long at Current Job	6-9 Years	13	13.8	3/2003
+27-1024.00	How Long at Current Job	1-5 Years	44	46.8	3/2003
+27-1024.00	How Long at Current Job	<1 Year	11	11.7	3/2003
+27-1024.00	How Long at Current Job	Missing	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	47	50	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	3	3.2	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	1	1.1	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	43	45.7	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+27-1024.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-1031.00	O*NET-SOC Establishment Response Rate	n/a	n/a	70.6	3/2003
+29-1031.00	O*NET-SOC Employee Response Rate	n/a	n/a	70.5	3/2003
+29-1031.00	O*NET-SOC Case Completeness Rate	n/a	n/a	83.9	3/2003
+29-1031.00	Total Completes for O*NET-SOC	n/a	73	n/a	3/2003
+29-1031.00	Data Collection Mode	Paper	61	83.6	3/2003
+29-1031.00	Data Collection Mode	Web	12	16.4	3/2003
+29-1031.00	How Long at Current Job	10 Years or More	25	34.2	3/2003
+29-1031.00	How Long at Current Job	6-9 Years	10	13.7	3/2003
+29-1031.00	How Long at Current Job	1-5 Years	31	42.5	3/2003
+29-1031.00	How Long at Current Job	<1 Year	7	9.6	3/2003
+29-1031.00	How Long at Current Job	Missing	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	68	93.2	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	5	6.8	3/2003
+29-1031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-1041.00	O*NET-SOC Establishment Response Rate	n/a	n/a	61.6	3/2003
+29-1041.00	O*NET-SOC Employee Response Rate	n/a	n/a	69.6	3/2003
+29-1041.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93.2	3/2003
+29-1041.00	Total Completes for O*NET-SOC	n/a	82	n/a	3/2003
+29-1041.00	Data Collection Mode	Paper	69	84.1	3/2003
+29-1041.00	Data Collection Mode	Web	13	15.9	3/2003
+29-1041.00	How Long at Current Job	10 Years or More	61	74.4	3/2003
+29-1041.00	How Long at Current Job	6-9 Years	6	7.3	3/2003
+29-1041.00	How Long at Current Job	1-5 Years	14	17.1	3/2003
+29-1041.00	How Long at Current Job	<1 Year	1	1.2	3/2003
+29-1041.00	How Long at Current Job	Missing	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	11	13.4	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	71	86.6	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-1041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-1122.00	O*NET-SOC Establishment Response Rate	n/a	n/a	72.9	3/2003
+29-1122.00	O*NET-SOC Employee Response Rate	n/a	n/a	68	3/2003
+29-1122.00	O*NET-SOC Case Completeness Rate	n/a	n/a	96.5	3/2003
+29-1122.00	Total Completes for O*NET-SOC	n/a	82	n/a	3/2003
+29-1122.00	Data Collection Mode	Paper	68	82.9	3/2003
+29-1122.00	Data Collection Mode	Web	14	17.1	3/2003
+29-1122.00	How Long at Current Job	10 Years or More	20	24.4	3/2003
+29-1122.00	How Long at Current Job	6-9 Years	18	22	3/2003
+29-1122.00	How Long at Current Job	1-5 Years	38	46.3	3/2003
+29-1122.00	How Long at Current Job	<1 Year	6	7.3	3/2003
+29-1122.00	How Long at Current Job	Missing	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	82	100	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-1122.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-1123.00	O*NET-SOC Establishment Response Rate	n/a	n/a	68.9	3/2003
+29-1123.00	O*NET-SOC Employee Response Rate	n/a	n/a	61.3	3/2003
+29-1123.00	O*NET-SOC Case Completeness Rate	n/a	n/a	90.8	3/2003
+29-1123.00	Total Completes for O*NET-SOC	n/a	79	n/a	3/2003
+29-1123.00	Data Collection Mode	Paper	66	83.5	3/2003
+29-1123.00	Data Collection Mode	Web	13	16.5	3/2003
+29-1123.00	How Long at Current Job	10 Years or More	28	35.4	3/2003
+29-1123.00	How Long at Current Job	6-9 Years	10	12.7	3/2003
+29-1123.00	How Long at Current Job	1-5 Years	34	43	3/2003
+29-1123.00	How Long at Current Job	<1 Year	7	8.9	3/2003
+29-1123.00	How Long at Current Job	Missing	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	79	100	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-1123.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-1125.00	O*NET-SOC Establishment Response Rate	n/a	n/a	65.3	3/2003
+29-1125.00	O*NET-SOC Employee Response Rate	n/a	n/a	72.6	3/2003
+29-1125.00	O*NET-SOC Case Completeness Rate	n/a	n/a	85.6	3/2003
+29-1125.00	Total Completes for O*NET-SOC	n/a	77	n/a	3/2003
+29-1125.00	Data Collection Mode	Paper	72	93.5	3/2003
+29-1125.00	Data Collection Mode	Web	5	6.5	3/2003
+29-1125.00	How Long at Current Job	10 Years or More	27	35.1	3/2003
+29-1125.00	How Long at Current Job	6-9 Years	10	13	3/2003
+29-1125.00	How Long at Current Job	1-5 Years	25	32.5	3/2003
+29-1125.00	How Long at Current Job	<1 Year	15	19.5	3/2003
+29-1125.00	How Long at Current Job	Missing	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	68	88.3	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	9	11.7	3/2003
+29-1125.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-1126.00	O*NET-SOC Establishment Response Rate	n/a	n/a	57.8	3/2003
+29-1126.00	O*NET-SOC Employee Response Rate	n/a	n/a	61	3/2003
+29-1126.00	O*NET-SOC Case Completeness Rate	n/a	n/a	92.8	3/2003
+29-1126.00	Total Completes for O*NET-SOC	n/a	90	n/a	3/2003
+29-1126.00	Data Collection Mode	Paper	78	86.7	3/2003
+29-1126.00	Data Collection Mode	Web	12	13.3	3/2003
+29-1126.00	How Long at Current Job	10 Years or More	50	55.6	3/2003
+29-1126.00	How Long at Current Job	6-9 Years	18	20	3/2003
+29-1126.00	How Long at Current Job	1-5 Years	22	24.4	3/2003
+29-1126.00	How Long at Current Job	<1 Year	0	0	3/2003
+29-1126.00	How Long at Current Job	Missing	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	4	4.4	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	86	95.6	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-1126.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2021.00	O*NET-SOC Establishment Response Rate	n/a	n/a	64.2	3/2003
+29-2021.00	O*NET-SOC Employee Response Rate	n/a	n/a	80.3	3/2003
+29-2021.00	O*NET-SOC Case Completeness Rate	n/a	n/a	90.6	3/2003
+29-2021.00	Total Completes for O*NET-SOC	n/a	77	n/a	3/2003
+29-2021.00	Data Collection Mode	Paper	70	90.9	3/2003
+29-2021.00	Data Collection Mode	Web	7	9.1	3/2003
+29-2021.00	How Long at Current Job	10 Years or More	36	46.8	3/2003
+29-2021.00	How Long at Current Job	6-9 Years	18	23.4	3/2003
+29-2021.00	How Long at Current Job	1-5 Years	21	27.3	3/2003
+29-2021.00	How Long at Current Job	<1 Year	2	2.6	3/2003
+29-2021.00	How Long at Current Job	Missing	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	77	100	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2032.00	O*NET-SOC Establishment Response Rate	n/a	n/a	60.7	3/2003
+29-2032.00	O*NET-SOC Employee Response Rate	n/a	n/a	69.4	3/2003
+29-2032.00	O*NET-SOC Case Completeness Rate	n/a	n/a	89.2	3/2003
+29-2032.00	Total Completes for O*NET-SOC	n/a	83	n/a	3/2003
+29-2032.00	Data Collection Mode	Paper	69	83.1	3/2003
+29-2032.00	Data Collection Mode	Web	14	16.9	3/2003
+29-2032.00	How Long at Current Job	10 Years or More	38	45.8	3/2003
+29-2032.00	How Long at Current Job	6-9 Years	12	14.5	3/2003
+29-2032.00	How Long at Current Job	1-5 Years	30	36.1	3/2003
+29-2032.00	How Long at Current Job	<1 Year	3	3.6	3/2003
+29-2032.00	How Long at Current Job	Missing	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	83	100	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-2032.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2034.01	O*NET-SOC Establishment Response Rate	n/a	n/a	63.4	3/2003
+29-2034.01	O*NET-SOC Employee Response Rate	n/a	n/a	64.2	3/2003
+29-2034.01	O*NET-SOC Case Completeness Rate	n/a	n/a	95.3	3/2003
+29-2034.01	Total Completes for O*NET-SOC	n/a	82	n/a	3/2003
+29-2034.01	Data Collection Mode	Paper	74	90.2	3/2003
+29-2034.01	Data Collection Mode	Web	8	9.8	3/2003
+29-2034.01	How Long at Current Job	10 Years or More	33	40.2	3/2003
+29-2034.01	How Long at Current Job	6-9 Years	13	15.9	3/2003
+29-2034.01	How Long at Current Job	1-5 Years	32	39	3/2003
+29-2034.01	How Long at Current Job	<1 Year	4	4.9	3/2003
+29-2034.01	How Long at Current Job	Missing	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	82	100	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-2034.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2041.00	O*NET-SOC Establishment Response Rate	n/a	n/a	68.8	3/2003
+29-2041.00	O*NET-SOC Employee Response Rate	n/a	n/a	70.1	3/2003
+29-2041.00	O*NET-SOC Case Completeness Rate	n/a	n/a	91.2	3/2003
+29-2041.00	Total Completes for O*NET-SOC	n/a	93	n/a	3/2003
+29-2041.00	Data Collection Mode	Paper	84	90.3	3/2003
+29-2041.00	Data Collection Mode	Web	9	9.7	3/2003
+29-2041.00	How Long at Current Job	10 Years or More	23	24.7	3/2003
+29-2041.00	How Long at Current Job	6-9 Years	22	23.7	3/2003
+29-2041.00	How Long at Current Job	1-5 Years	42	45.2	3/2003
+29-2041.00	How Long at Current Job	<1 Year	5	5.4	3/2003
+29-2041.00	How Long at Current Job	Missing	1	1.1	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	35	37.6	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	7	7.5	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	51	54.8	3/2003
+29-2041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2054.00	O*NET-SOC Establishment Response Rate	n/a	n/a	57.4	3/2003
+29-2054.00	O*NET-SOC Employee Response Rate	n/a	n/a	59.8	3/2003
+29-2054.00	O*NET-SOC Case Completeness Rate	n/a	n/a	89.9	3/2003
+29-2054.00	Total Completes for O*NET-SOC	n/a	71	n/a	3/2003
+29-2054.00	Data Collection Mode	Paper	63	88.7	3/2003
+29-2054.00	Data Collection Mode	Web	8	11.3	3/2003
+29-2054.00	How Long at Current Job	10 Years or More	39	54.9	3/2003
+29-2054.00	How Long at Current Job	6-9 Years	15	21.1	3/2003
+29-2054.00	How Long at Current Job	1-5 Years	12	16.9	3/2003
+29-2054.00	How Long at Current Job	<1 Year	5	7	3/2003
+29-2054.00	How Long at Current Job	Missing	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	71	100	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-2054.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2061.00	O*NET-SOC Establishment Response Rate	n/a	n/a	64.6	3/2003
+29-2061.00	O*NET-SOC Employee Response Rate	n/a	n/a	55	3/2003
+29-2061.00	O*NET-SOC Case Completeness Rate	n/a	n/a	84.6	3/2003
+29-2061.00	Total Completes for O*NET-SOC	n/a	66	n/a	3/2003
+29-2061.00	Data Collection Mode	Paper	62	93.9	3/2003
+29-2061.00	Data Collection Mode	Web	4	6.1	3/2003
+29-2061.00	How Long at Current Job	10 Years or More	31	47	3/2003
+29-2061.00	How Long at Current Job	6-9 Years	7	10.6	3/2003
+29-2061.00	How Long at Current Job	1-5 Years	22	33.3	3/2003
+29-2061.00	How Long at Current Job	<1 Year	5	7.6	3/2003
+29-2061.00	How Long at Current Job	Missing	1	1.5	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	66	100	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+29-2061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+29-2071.00	O*NET-SOC Establishment Response Rate	n/a	n/a	62.6	3/2003
+29-2071.00	O*NET-SOC Employee Response Rate	n/a	n/a	71	3/2003
+29-2071.00	O*NET-SOC Case Completeness Rate	n/a	n/a	88.9	3/2003
+29-2071.00	Total Completes for O*NET-SOC	n/a	128	n/a	3/2003
+29-2071.00	Data Collection Mode	Paper	123	96.1	3/2003
+29-2071.00	Data Collection Mode	Web	5	3.9	3/2003
+29-2071.00	How Long at Current Job	10 Years or More	26	20.3	3/2003
+29-2071.00	How Long at Current Job	6-9 Years	30	23.4	3/2003
+29-2071.00	How Long at Current Job	1-5 Years	54	42.2	3/2003
+29-2071.00	How Long at Current Job	<1 Year	17	13.3	3/2003
+29-2071.00	How Long at Current Job	Missing	1	.8	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	125	97.7	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	3	2.3	3/2003
+29-2071.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+31-9091.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.3	3/2003
+31-9091.00	O*NET-SOC Employee Response Rate	n/a	n/a	77.8	3/2003
+31-9091.00	O*NET-SOC Case Completeness Rate	n/a	n/a	95.2	3/2003
+31-9091.00	Total Completes for O*NET-SOC	n/a	79	n/a	3/2003
+31-9091.00	Data Collection Mode	Paper	78	98.7	3/2003
+31-9091.00	Data Collection Mode	Web	1	1.3	3/2003
+31-9091.00	How Long at Current Job	10 Years or More	26	32.9	3/2003
+31-9091.00	How Long at Current Job	6-9 Years	15	19	3/2003
+31-9091.00	How Long at Current Job	1-5 Years	29	36.7	3/2003
+31-9091.00	How Long at Current Job	<1 Year	9	11.4	3/2003
+31-9091.00	How Long at Current Job	Missing	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	79	100	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+31-9091.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+33-1012.00	O*NET-SOC Establishment Response Rate	n/a	n/a	72.4	3/2003
+33-1012.00	O*NET-SOC Employee Response Rate	n/a	n/a	73.4	3/2003
+33-1012.00	O*NET-SOC Case Completeness Rate	n/a	n/a	89.5	3/2003
+33-1012.00	Total Completes for O*NET-SOC	n/a	102	n/a	3/2003
+33-1012.00	Data Collection Mode	Paper	89	87.3	3/2003
+33-1012.00	Data Collection Mode	Web	13	12.7	3/2003
+33-1012.00	How Long at Current Job	10 Years or More	53	52	3/2003
+33-1012.00	How Long at Current Job	6-9 Years	16	15.7	3/2003
+33-1012.00	How Long at Current Job	1-5 Years	28	27.5	3/2003
+33-1012.00	How Long at Current Job	<1 Year	5	4.9	3/2003
+33-1012.00	How Long at Current Job	Missing	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	102	100	3/2003
+33-1012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+33-3021.01	O*NET-SOC Establishment Response Rate	n/a	n/a	72.8	3/2003
+33-3021.01	O*NET-SOC Employee Response Rate	n/a	n/a	72	3/2003
+33-3021.01	O*NET-SOC Case Completeness Rate	n/a	n/a	92.2	3/2003
+33-3021.01	Total Completes for O*NET-SOC	n/a	166	n/a	3/2003
+33-3021.01	Data Collection Mode	Paper	134	80.7	3/2003
+33-3021.01	Data Collection Mode	Web	32	19.3	3/2003
+33-3021.01	How Long at Current Job	10 Years or More	59	35.5	3/2003
+33-3021.01	How Long at Current Job	6-9 Years	27	16.3	3/2003
+33-3021.01	How Long at Current Job	1-5 Years	64	38.6	3/2003
+33-3021.01	How Long at Current Job	<1 Year	15	9	3/2003
+33-3021.01	How Long at Current Job	Missing	1	.6	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	166	100	3/2003
+33-3021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+33-3051.01	O*NET-SOC Establishment Response Rate	n/a	n/a	72.8	3/2003
+33-3051.01	O*NET-SOC Employee Response Rate	n/a	n/a	67.7	3/2003
+33-3051.01	O*NET-SOC Case Completeness Rate	n/a	n/a	93.5	3/2003
+33-3051.01	Total Completes for O*NET-SOC	n/a	258	n/a	3/2003
+33-3051.01	Data Collection Mode	Paper	233	90.3	3/2003
+33-3051.01	Data Collection Mode	Web	25	9.7	3/2003
+33-3051.01	How Long at Current Job	10 Years or More	94	36.4	3/2003
+33-3051.01	How Long at Current Job	6-9 Years	48	18.6	3/2003
+33-3051.01	How Long at Current Job	1-5 Years	108	41.9	3/2003
+33-3051.01	How Long at Current Job	<1 Year	8	3.1	3/2003
+33-3051.01	How Long at Current Job	Missing	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	4	1.6	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	254	98.4	3/2003
+33-3051.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+39-5012.00	O*NET-SOC Establishment Response Rate	n/a	n/a	52.2	3/2003
+39-5012.00	O*NET-SOC Employee Response Rate	n/a	n/a	64.2	3/2003
+39-5012.00	O*NET-SOC Case Completeness Rate	n/a	n/a	94.4	3/2003
+39-5012.00	Total Completes for O*NET-SOC	n/a	67	n/a	3/2003
+39-5012.00	Data Collection Mode	Paper	63	94	3/2003
+39-5012.00	Data Collection Mode	Web	4	6	3/2003
+39-5012.00	How Long at Current Job	10 Years or More	38	56.7	3/2003
+39-5012.00	How Long at Current Job	6-9 Years	7	10.4	3/2003
+39-5012.00	How Long at Current Job	1-5 Years	18	26.9	3/2003
+39-5012.00	How Long at Current Job	<1 Year	4	6	3/2003
+39-5012.00	How Long at Current Job	Missing	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	67	100	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+39-5012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+41-1011.00	O*NET-SOC Establishment Response Rate	n/a	n/a	62.2	3/2003
+41-1011.00	O*NET-SOC Employee Response Rate	n/a	n/a	73.4	3/2003
+41-1011.00	O*NET-SOC Case Completeness Rate	n/a	n/a	84	3/2003
+41-1011.00	Total Completes for O*NET-SOC	n/a	79	n/a	3/2003
+41-1011.00	Data Collection Mode	Paper	70	88.6	3/2003
+41-1011.00	Data Collection Mode	Web	9	11.4	3/2003
+41-1011.00	How Long at Current Job	10 Years or More	30	38	3/2003
+41-1011.00	How Long at Current Job	6-9 Years	11	13.9	3/2003
+41-1011.00	How Long at Current Job	1-5 Years	34	43	3/2003
+41-1011.00	How Long at Current Job	<1 Year	4	5.1	3/2003
+41-1011.00	How Long at Current Job	Missing	0	0	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	1	1.3	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	8	10.1	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	62	78.5	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	1	1.3	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	7	8.9	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+41-1011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+41-2021.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.9	3/2003
+41-2021.00	O*NET-SOC Employee Response Rate	n/a	n/a	64	3/2003
+41-2021.00	O*NET-SOC Case Completeness Rate	n/a	n/a	70.2	3/2003
+41-2021.00	Total Completes for O*NET-SOC	n/a	80	n/a	3/2003
+41-2021.00	Data Collection Mode	Paper	74	92.5	3/2003
+41-2021.00	Data Collection Mode	Web	6	7.5	3/2003
+41-2021.00	How Long at Current Job	10 Years or More	10	12.5	3/2003
+41-2021.00	How Long at Current Job	6-9 Years	10	12.5	3/2003
+41-2021.00	How Long at Current Job	1-5 Years	41	51.3	3/2003
+41-2021.00	How Long at Current Job	<1 Year	18	22.5	3/2003
+41-2021.00	How Long at Current Job	Missing	1	1.3	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	6	7.5	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	37	46.3	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	3	3.8	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	34	42.5	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+41-2021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+41-2031.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.4	3/2003
+41-2031.00	O*NET-SOC Employee Response Rate	n/a	n/a	63.3	3/2003
+41-2031.00	O*NET-SOC Case Completeness Rate	n/a	n/a	87.8	3/2003
+41-2031.00	Total Completes for O*NET-SOC	n/a	101	n/a	3/2003
+41-2031.00	Data Collection Mode	Paper	94	93.1	3/2003
+41-2031.00	Data Collection Mode	Web	7	6.9	3/2003
+41-2031.00	How Long at Current Job	10 Years or More	22	21.8	3/2003
+41-2031.00	How Long at Current Job	6-9 Years	10	9.9	3/2003
+41-2031.00	How Long at Current Job	1-5 Years	46	45.5	3/2003
+41-2031.00	How Long at Current Job	<1 Year	23	22.8	3/2003
+41-2031.00	How Long at Current Job	Missing	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	7	6.9	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	89	88.1	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	5	5	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+41-2031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+41-3021.00	O*NET-SOC Establishment Response Rate	n/a	n/a	54.1	3/2003
+41-3021.00	O*NET-SOC Employee Response Rate	n/a	n/a	85.4	3/2003
+41-3021.00	O*NET-SOC Case Completeness Rate	n/a	n/a	91.9	3/2003
+41-3021.00	Total Completes for O*NET-SOC	n/a	113	n/a	3/2003
+41-3021.00	Data Collection Mode	Paper	96	85	3/2003
+41-3021.00	Data Collection Mode	Web	17	15	3/2003
+41-3021.00	How Long at Current Job	10 Years or More	58	51.3	3/2003
+41-3021.00	How Long at Current Job	6-9 Years	12	10.6	3/2003
+41-3021.00	How Long at Current Job	1-5 Years	31	27.4	3/2003
+41-3021.00	How Long at Current Job	<1 Year	12	10.6	3/2003
+41-3021.00	How Long at Current Job	Missing	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	113	100	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+41-3021.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+41-3041.00	O*NET-SOC Establishment Response Rate	n/a	n/a	66.7	3/2003
+41-3041.00	O*NET-SOC Employee Response Rate	n/a	n/a	73.7	3/2003
+41-3041.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93.7	3/2003
+41-3041.00	Total Completes for O*NET-SOC	n/a	74	n/a	3/2003
+41-3041.00	Data Collection Mode	Paper	73	98.6	3/2003
+41-3041.00	Data Collection Mode	Web	1	1.4	3/2003
+41-3041.00	How Long at Current Job	10 Years or More	34	45.9	3/2003
+41-3041.00	How Long at Current Job	6-9 Years	13	17.6	3/2003
+41-3041.00	How Long at Current Job	1-5 Years	24	32.4	3/2003
+41-3041.00	How Long at Current Job	<1 Year	1	1.4	3/2003
+41-3041.00	How Long at Current Job	Missing	2	2.7	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	74	100	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+41-3041.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+43-4171.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.8	3/2003
+43-4171.00	O*NET-SOC Employee Response Rate	n/a	n/a	75.3	3/2003
+43-4171.00	O*NET-SOC Case Completeness Rate	n/a	n/a	88.2	3/2003
+43-4171.00	Total Completes for O*NET-SOC	n/a	194	n/a	3/2003
+43-4171.00	Data Collection Mode	Paper	171	88.1	3/2003
+43-4171.00	Data Collection Mode	Web	23	11.9	3/2003
+43-4171.00	How Long at Current Job	10 Years or More	32	16.5	3/2003
+43-4171.00	How Long at Current Job	6-9 Years	22	11.3	3/2003
+43-4171.00	How Long at Current Job	1-5 Years	98	50.5	3/2003
+43-4171.00	How Long at Current Job	<1 Year	41	21.1	3/2003
+43-4171.00	How Long at Current Job	Missing	1	.5	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	2	1	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	1	.5	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	3	1.5	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	9	4.6	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	11	5.7	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	5	2.6	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	30	15.5	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	112	57.7	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	21	10.8	3/2003
+43-4171.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+43-6012.00	O*NET-SOC Establishment Response Rate	n/a	n/a	57.8	3/2003
+43-6012.00	O*NET-SOC Employee Response Rate	n/a	n/a	83.3	3/2003
+43-6012.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93.9	3/2003
+43-6012.00	Total Completes for O*NET-SOC	n/a	77	n/a	3/2003
+43-6012.00	Data Collection Mode	Paper	68	88.3	3/2003
+43-6012.00	Data Collection Mode	Web	9	11.7	3/2003
+43-6012.00	How Long at Current Job	10 Years or More	47	61	3/2003
+43-6012.00	How Long at Current Job	6-9 Years	10	13	3/2003
+43-6012.00	How Long at Current Job	1-5 Years	11	14.3	3/2003
+43-6012.00	How Long at Current Job	<1 Year	9	11.7	3/2003
+43-6012.00	How Long at Current Job	Missing	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	77	100	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+43-6012.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+43-6013.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.8	3/2003
+43-6013.00	O*NET-SOC Employee Response Rate	n/a	n/a	75.6	3/2003
+43-6013.00	O*NET-SOC Case Completeness Rate	n/a	n/a	96.8	3/2003
+43-6013.00	Total Completes for O*NET-SOC	n/a	90	n/a	3/2003
+43-6013.00	Data Collection Mode	Paper	82	91.1	3/2003
+43-6013.00	Data Collection Mode	Web	8	8.9	3/2003
+43-6013.00	How Long at Current Job	10 Years or More	23	25.6	3/2003
+43-6013.00	How Long at Current Job	6-9 Years	18	20	3/2003
+43-6013.00	How Long at Current Job	1-5 Years	38	42.2	3/2003
+43-6013.00	How Long at Current Job	<1 Year	11	12.2	3/2003
+43-6013.00	How Long at Current Job	Missing	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	90	100	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+43-6013.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+43-9022.00	O*NET-SOC Establishment Response Rate	n/a	n/a	68.3	3/2003
+43-9022.00	O*NET-SOC Employee Response Rate	n/a	n/a	76.8	3/2003
+43-9022.00	O*NET-SOC Case Completeness Rate	n/a	n/a	82.4	3/2003
+43-9022.00	Total Completes for O*NET-SOC	n/a	98	n/a	3/2003
+43-9022.00	Data Collection Mode	Paper	93	94.9	3/2003
+43-9022.00	Data Collection Mode	Web	5	5.1	3/2003
+43-9022.00	How Long at Current Job	10 Years or More	26	26.5	3/2003
+43-9022.00	How Long at Current Job	6-9 Years	16	16.3	3/2003
+43-9022.00	How Long at Current Job	1-5 Years	38	38.8	3/2003
+43-9022.00	How Long at Current Job	<1 Year	18	18.4	3/2003
+43-9022.00	How Long at Current Job	Missing	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	1	1	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	15	15.3	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	36	36.7	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	46	46.9	3/2003
+43-9022.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+43-9041.02	O*NET-SOC Establishment Response Rate	n/a	n/a	53.3	3/2003
+43-9041.02	O*NET-SOC Employee Response Rate	n/a	n/a	71.4	3/2003
+43-9041.02	O*NET-SOC Case Completeness Rate	n/a	n/a	83	3/2003
+43-9041.02	Total Completes for O*NET-SOC	n/a	73	n/a	3/2003
+43-9041.02	Data Collection Mode	Paper	54	74	3/2003
+43-9041.02	Data Collection Mode	Web	19	26	3/2003
+43-9041.02	How Long at Current Job	10 Years or More	30	41.1	3/2003
+43-9041.02	How Long at Current Job	6-9 Years	5	6.8	3/2003
+43-9041.02	How Long at Current Job	1-5 Years	32	43.8	3/2003
+43-9041.02	How Long at Current Job	<1 Year	6	8.2	3/2003
+43-9041.02	How Long at Current Job	Missing	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	73	100	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+43-9041.02	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+43-9061.00	O*NET-SOC Establishment Response Rate	n/a	n/a	68.5	3/2003
+43-9061.00	O*NET-SOC Employee Response Rate	n/a	n/a	76.2	3/2003
+43-9061.00	O*NET-SOC Case Completeness Rate	n/a	n/a	87	3/2003
+43-9061.00	Total Completes for O*NET-SOC	n/a	241	n/a	3/2003
+43-9061.00	Data Collection Mode	Paper	215	89.2	3/2003
+43-9061.00	Data Collection Mode	Web	26	10.8	3/2003
+43-9061.00	How Long at Current Job	10 Years or More	67	27.8	3/2003
+43-9061.00	How Long at Current Job	6-9 Years	32	13.3	3/2003
+43-9061.00	How Long at Current Job	1-5 Years	101	41.9	3/2003
+43-9061.00	How Long at Current Job	<1 Year	41	17	3/2003
+43-9061.00	How Long at Current Job	Missing	0	0	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	1	.4	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	13	5.4	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	17	7.1	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	12	5	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	9	3.7	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	13	5.4	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	38	15.8	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	59	24.5	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	79	32.8	3/2003
+43-9061.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+47-2031.01	O*NET-SOC Establishment Response Rate	n/a	n/a	63.9	3/2003
+47-2031.01	O*NET-SOC Employee Response Rate	n/a	n/a	47.5	3/2003
+47-2031.01	O*NET-SOC Case Completeness Rate	n/a	n/a	84	3/2003
+47-2031.01	Total Completes for O*NET-SOC	n/a	84	n/a	3/2003
+47-2031.01	Data Collection Mode	Paper	74	88.1	3/2003
+47-2031.01	Data Collection Mode	Web	10	11.9	3/2003
+47-2031.01	How Long at Current Job	10 Years or More	27	32.1	3/2003
+47-2031.01	How Long at Current Job	6-9 Years	13	15.5	3/2003
+47-2031.01	How Long at Current Job	1-5 Years	35	41.7	3/2003
+47-2031.01	How Long at Current Job	<1 Year	9	10.7	3/2003
+47-2031.01	How Long at Current Job	Missing	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	66	78.6	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	15	17.9	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	3	3.6	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	0	0	3/2003
+47-2031.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+47-4011.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.5	3/2003
+47-4011.00	O*NET-SOC Employee Response Rate	n/a	n/a	55.7	3/2003
+47-4011.00	O*NET-SOC Case Completeness Rate	n/a	n/a	89.2	3/2003
+47-4011.00	Total Completes for O*NET-SOC	n/a	83	n/a	3/2003
+47-4011.00	Data Collection Mode	Paper	78	94	3/2003
+47-4011.00	Data Collection Mode	Web	5	6	3/2003
+47-4011.00	How Long at Current Job	10 Years or More	40	48.2	3/2003
+47-4011.00	How Long at Current Job	6-9 Years	13	15.7	3/2003
+47-4011.00	How Long at Current Job	1-5 Years	20	24.1	3/2003
+47-4011.00	How Long at Current Job	<1 Year	10	12	3/2003
+47-4011.00	How Long at Current Job	Missing	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	10	12	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	37	44.6	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	36	43.4	3/2003
+47-4011.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+49-2094.00	O*NET-SOC Establishment Response Rate	n/a	n/a	63.9	3/2003
+49-2094.00	O*NET-SOC Employee Response Rate	n/a	n/a	75.4	3/2003
+49-2094.00	O*NET-SOC Case Completeness Rate	n/a	n/a	93.3	3/2003
+49-2094.00	Total Completes for O*NET-SOC	n/a	83	n/a	3/2003
+49-2094.00	Data Collection Mode	Paper	72	86.7	3/2003
+49-2094.00	Data Collection Mode	Web	11	13.3	3/2003
+49-2094.00	How Long at Current Job	10 Years or More	40	48.2	3/2003
+49-2094.00	How Long at Current Job	6-9 Years	11	13.3	3/2003
+49-2094.00	How Long at Current Job	1-5 Years	23	27.7	3/2003
+49-2094.00	How Long at Current Job	<1 Year	9	10.8	3/2003
+49-2094.00	How Long at Current Job	Missing	0	0	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	2	2.4	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	15	18.1	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	30	36.1	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	8	9.6	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	15	18.1	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	13	15.7	3/2003
+49-2094.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+49-9021.01	O*NET-SOC Establishment Response Rate	n/a	n/a	63.1	3/2003
+49-9021.01	O*NET-SOC Employee Response Rate	n/a	n/a	57	3/2003
+49-9021.01	O*NET-SOC Case Completeness Rate	n/a	n/a	87.8	3/2003
+49-9021.01	Total Completes for O*NET-SOC	n/a	86	n/a	3/2003
+49-9021.01	Data Collection Mode	Paper	79	91.9	3/2003
+49-9021.01	Data Collection Mode	Web	7	8.1	3/2003
+49-9021.01	How Long at Current Job	10 Years or More	53	61.6	3/2003
+49-9021.01	How Long at Current Job	6-9 Years	8	9.3	3/2003
+49-9021.01	How Long at Current Job	1-5 Years	19	22.1	3/2003
+49-9021.01	How Long at Current Job	<1 Year	5	5.8	3/2003
+49-9021.01	How Long at Current Job	Missing	1	1.2	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	52	60.5	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	5	5.8	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	1	1.2	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	11	12.8	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	1	1.2	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	15	17.4	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	1	1.2	3/2003
+49-9021.01	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003
+51-8031.00	O*NET-SOC Establishment Response Rate	n/a	n/a	70.5	3/2003
+51-8031.00	O*NET-SOC Employee Response Rate	n/a	n/a	62.3	3/2003
+51-8031.00	O*NET-SOC Case Completeness Rate	n/a	n/a	82.7	3/2003
+51-8031.00	Total Completes for O*NET-SOC	n/a	62	n/a	3/2003
+51-8031.00	Data Collection Mode	Paper	56	90.3	3/2003
+51-8031.00	Data Collection Mode	Web	6	9.7	3/2003
+51-8031.00	How Long at Current Job	10 Years or More	35	56.5	3/2003
+51-8031.00	How Long at Current Job	6-9 Years	11	17.7	3/2003
+51-8031.00	How Long at Current Job	1-5 Years	14	22.6	3/2003
+51-8031.00	How Long at Current Job	<1 Year	2	3.2	3/2003
+51-8031.00	How Long at Current Job	Missing	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Agriculture, Forestry, Fishing (01-09)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Mining (10-14)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Construction (15-17)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Manufacturing (20-39)	8	12.9	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Transportation, Communication, Electric, Gas, and Sanitary Services (40-49)	18	29	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Wholesale Trade (50-51)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Retail Trade (52-59)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Financial, Insurance and Real Estate (60-67)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Services (70-89)	0	0	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Public Administration (90-97)	36	58.1	3/2003
+51-8031.00	Industry Division (Major Group Codes (SIC) within Division in parentheses)	Non-Classifiable (99)	0	0	3/2003

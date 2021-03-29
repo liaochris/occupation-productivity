@@ -1,0 +1,75 @@
+O*NET 17.0 Database
+July 2012 Release
+-----------------
+
+The current release of the O*NET database is available online at:
+
+http://www.onetcenter.org/database.html
+
+For information on future releases of the O*NET database, visit
+the O*NET Development Database page at:
+
+http://www.onetcenter.org/dev_db.html
+
+
+New in 17.0
+-----------
+
+This release includes new and updated data for 108 O*NET-SOC occupations.
+In addition, this release includes new and updated Work Values data for 82
+occupations. As of the 17.0 release, all 974 data-level occupations in the
+O*NET-SOC 2010 taxonomy have analyst Work Values ratings.
+
+
+For More Information
+--------------------
+
+For comprehensive information on the contents, structure, and
+relationship of the database files, and a history of changes in each
+database release, please consult the O*NET Data Dictionary 17.0:
+
+http://www.onetcenter.org/dl_files/DataDictionary17_0.pdf
+
+
+Files Included
+--------------
+
+The following files are included in this release:
+
+Abilities.txt
+Content Model Reference.txt
+Education, Training, and Experience.txt
+Education, Training, and Experience Categories.txt
+Green Occupations.txt
+Green Task Statements.txt
+Interests.txt
+Job Zone Reference.txt
+Job Zones.txt
+Knowledge.txt
+Level Scale Anchors.txt
+Occupation Data.txt
+Occupation Level Metadata.txt
+Read Me.txt
+Scales Reference.txt
+Skills.txt
+Survey Booklet Locations.txt
+Task Categories.txt
+Task Ratings.txt
+Task Statements.txt
+Work Activities.txt
+Work Context.txt
+Work Context Categories.txt
+Work Styles.txt
+Work Values.txt
+
+
+Release Information
+-------------------
+
+July 2012 - initial release
+
+
+Contact Us
+----------
+
+Please send any questions or comments to onet@onetcenter.org.

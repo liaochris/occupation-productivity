@@ -1,0 +1,95 @@
+O*NET 16.0 Database
+November 4, 2011 Release
+------------------------
+
+The current release of the O*NET database is available online at:
+
+http://www.onetcenter.org/database.html
+
+For information on future releases of the O*NET database, visit
+the O*NET Development Database page at:
+
+http://www.onetcenter.org/dev_db.html
+
+
+New in 16.0
+-----------
+
+The O*NET 16.0 database features the O*NET-SOC 2010 taxonomy, which is
+compatible with the recently released 2010 SOC standard. This release
+also includes new and updated data for 107 O*NET-SOC occupations.
+
+Two new files are included in this release:
+
+Green Occupations.txt - lists the O*NET-SOC occupations affected by
+  green economy activities and technologies. Each occupation is
+  impacted by an increase in employment demand, changes to work and
+  worker requirements, or arose because of green economy needs.
+
+Green Task Statements.txt - identifies task statements that apply
+  specifically to green economy activities. Not all Green occupations
+  have Green task statements; the number depends on the nature of
+  the work.
+
+To learn more about the National O*NET Center's research into the
+green economy, visit the Green Economy page at:
+
+http://www.onetcenter.org/green.html
+
+
+For More Information
+--------------------
+
+For comprehensive information on the contents, structure, and
+relationship of the database files, and a history of changes in each
+database release, please consult the O*NET Data Dictionary 16.0:
+
+http://www.onetcenter.org/dl_files/DataDictionary16_0.pdf
+
+
+Files Included
+--------------
+
+The following files are included in this release:
+
+Abilities.txt
+Content Model Reference.txt
+Education, Training, and Experience.txt
+Education, Training, and Experience Categories.txt
+Green Occupations.txt
+Green Task Statements.txt
+Interests.txt
+Job Zone Reference.txt
+Job Zones.txt
+Knowledge.txt
+Level Scale Anchors.txt
+Occupation Data.txt
+Occupation Level Metadata.txt
+Read Me.txt
+Scales Reference.txt
+Skills.txt
+Survey Booklet Locations.txt
+Task Categories.txt
+Task Ratings.txt
+Task Statements.txt
+Work Activities.txt
+Work Context.txt
+Work Context Categories.txt
+Work Styles.txt
+Work Values.txt
+
+
+Release Information
+-------------------
+
+July 2011 - initial release
+
+October 12, 2011 - revised one occupation in Interests.txt
+
+November 4, 2011 - revised Domain Source for some task statements
+
+
+Contact Us
+----------
+
+Please send any questions or comments to onet@onetcenter.org.

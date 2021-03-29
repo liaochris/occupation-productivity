@@ -1,0 +1,70 @@
+Scale ID	Scale Name	Minimum	Maximum
+AC	Accuracy	1	5
+AG	Agreement	1	5
+AM	Required Amount of Experience	0	10
+AN	Accountability	1	7
+AO	Automation	1	7
+AT	Attire Frequency	0	5
+AU	Autonomy	1	5
+AV	Frequency	0	4
+CA	Check All that Apply	0	100
+CF	Frequency	0	4
+CH	Change	0	4
+CL	Task Clarity	1	7
+CM	Frequency	0	7
+CN	Amount of Contact	1	7
+CO	% Chosen	0	100
+CT	Context Category	1	3
+CTP	Context Category (Categories 1-3)	0	100
+CX	Context	1	5
+CXP	Context (Categories 1-5)	0	100
+CY	% Yes	0	100
+DI	Degree of Injury	0	5
+DY	# of Days	1	10
+EN	Extent	1	5
+ER	Educational Level Required	0	4
+ET	Extent	1	5
+EX	Extent	1	5
+FB	Extent Feedback	1	5
+FC	Extent of Frustration	1	7
+FG	Frequency	1	4
+FL	Formality	1	7
+FM	Amount of Freedom	1	7
+FN	Frequency	0	4
+FR	Frequency	1	7
+FT	Frequency of Task	1	7
+FW	Frequency	0	7
+GL	Frequency of Goals	0	5
+HS	Responsible for Health & Safety	0	7
+IG	% Achieve Goals	0	5
+IH	Occupational Interest High-Point	0	6
+II	Importance	0	5
+IJ	Importance	0	5
+IM	Importance	1	5
+IP	Impact of Decisions	1	7
+JE	% Required for Job Entry	0	100
+JS	Job Specialty	0	100
+LC	Level of Competition	1	7
+LE	Education Level Required	1	12
+LI	Likelihood of Injury	0	7
+LV	Level	0	7
+NS	Number of Supervisors	0	4
+OI	Occupational Interests	1	7
+OJ	On-The-Job Training (Categories 1-9)	0	100
+OS	Objective vs Subjective	1	7
+PA	Privacy-Work	1	7
+PC	Part of Work	1	5
+PS	Time in Position	0	5
+PT	On-Site Or In-Plant Training (Categories 1-9)	0	100
+PV	Privacy-Communications	1	7
+PX	Proximity	1	7
+RE	Responsibilty	0	7
+RL	Required Level Of Education (Categories 1-12)	0	100
+RW	Related Work Experience (Categories 1-11)	0	100
+SG	Significance	1	5
+SR	How Serious	1	7
+ST	How Structured	1	7
+TI	% Time	0	4
+TM	Number of Teams	0	5
+TR	Frequency Training	0	3
+VR	Job Variety	1	5
