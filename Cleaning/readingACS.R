@@ -17,7 +17,7 @@ options(scipen=999)
 registerDoMC(cores = 4)
 
 #Set to my personal directory - adjust accordingly
-setwd("~/Google Drive/Non-Academic Work/Research/Traina/Productivity/")
+setwd("~/Google Drive/Non-Academic Work/Research/Traina/occupation-productivity/")
 
 ACS_url <- "https://drive.google.com/file/d/1uu-MMSrEFL-QC5TbVXlfUC7OMKMlI9Dj/view?usp=sharing"
 fname <- "Datasets/Imported/ACS/usa_00008.dat"

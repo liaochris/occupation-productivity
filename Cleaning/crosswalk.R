@@ -18,7 +18,7 @@ options(scipen=999)
 registerDoMC(cores = 4)
 
 #Set to my personal directory - adjust accordingly
-setwd("~/Google Drive/Non-Academic Work/Research/Traina/Productivity/")
+setwd("~/Google Drive/Non-Academic Work/Research/Traina/occupation-productivity/")
 
 #read in productivity data
 lp_naics <- read_delim(file = "Datasets/Cleaned/lp_naics.csv", delim = ",")

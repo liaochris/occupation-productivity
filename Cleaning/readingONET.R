@@ -12,7 +12,7 @@ library(future)
 library(doMC)
 library(vroom)
 library(RCurl)
-setwd("~/Google Drive/Non-Academic Work/Research/Traina/Productivity/")
+setwd("~/Google Drive/Non-Academic Work/Research/Traina/occupation-productivity/")
 
 #function for reading in files
 read_files <- function(x, ctypes, start) {
@@ -292,10 +292,10 @@ task_rat_work_abilities <- inner_join(task_work_abilities,
                                                "Task Ratings Domain Source" = "Domain Source",
                                                "Task Ratings N" = "N"))
 
-task_rat_work_skills$Date <- str_replace(task_work_abilities$Date, "3/2003", "03/2003")
-task_rat_work_skills$Date <- str_replace(task_work_abilities$Date, "003/2003", "03/2003")
-task_rat_work_skills$Date <- str_replace(task_work_abilities$Date, "7/2004", "07/2004")
-task_rat_work_skills$Date <- str_replace(task_work_abilities$Date, "007/2004", "07/2004")
+task_rat_work_abilities$Date <- str_replace(task_rat_work_abilities$Date, "3/2003", "03/2003")
+task_rat_work_abilities$Date <- str_replace(task_rat_work_abilities$Date, "003/2003", "03/2003")
+task_rat_work_abilities$Date <- str_replace(task_rat_work_abilities$Date, "7/2004", "07/2004")
+task_rat_work_abilities$Date <- str_replace(task_rat_work_abilities$Date, "007/2004", "07/2004")
 
 #creating final matching dataset, removing unimportant columns
 matching_dataset_abilities <- task_rat_work_abilities %>% 

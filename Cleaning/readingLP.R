@@ -7,7 +7,7 @@ library(stringr)
 library(data.table)
 
 #change directory as appropriate
-setwd("~/Google Drive/Non-Academic Work/Research/Traina/Productivity/")
+setwd("~/Google Drive/Non-Academic Work/Research/Traina/occupation-productivity/")
 
 #reading in Labor productivity data - Mapping Files
 area <- read_delim("Datasets/Imported/Industry Data/ip.area.txt",
