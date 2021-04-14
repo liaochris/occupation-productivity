@@ -1,0 +1,30 @@
+#Import libraries
+library(data.table)
+library(readr)
+library(dplyr)
+library(haven)
+library("doMC")
+library(future)
+library(vroom)
+library(RCurl)
+library(googledrive)
+library(ipumsr)
+library(zoo)
+library(collections)
+library(glue)
+library(stringr)
+library(tidyr)
+library(Rfast)
+plan(multisession)
+#disable scientific notation
+options(scipen=999)
+registerDoMC(cores = 4)
+
+#Set to my personal directory - adjust accordingly
+setwd("~/Google Drive/Non-Academic Work/Research/Traina/occupation-productivity/Datasets/Cleaned/")
+
+matching_dataset_abilities <- vroom(unzip("matching_dataset_abilities.csv.zip")) %>% distinct()
+matching_dataset_skills <- vroom(unzip("matching_dataset_skills.csv.zip")) %>% distinct()
+occsoc_indnaics_year <- vroom("occsoc_indnaics_year.csv")
+fwrite(matching_dataset_abilities, "matching_dataset_abilities.csv")
+fwrite(matching_dataset_skills, "matching_dataset_skills.csv")
