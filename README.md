@@ -9,7 +9,7 @@ Specifically, we plan to group occupations together based off of shared skills t
 
 <h3> Overview </h3>
 
-Here is an explanation of what is contained within this repository. There are two main folders - **Cleaning** and **Datasets**. **Cleaning** contains the R scripts that cleans and creates the datasets that will be used in the analysis. **Datasets** contains two subfolders, **Imported** and **Cleaned**. **Datasets/Imported** contains the raw data files processed by the scripts in **Cleaning**. **Datasets/Cleaned** contains the cleaned datasets created by the scrips in **Cleaning**.
+Here is an explanation of what is contained within this repository. There are three main folders - **Cleaning**, **Datasets**  and **Merging**. **Cleaning** contains the R scripts that cleans and creates the datasets that will be used in the analysis. **Datasets** contains two subfolders, **Imported** and **Cleaned**. **Datasets/Imported** contains the raw data files processed by the scripts in **Cleaning**. **Datasets/Cleaned** contains the cleaned datasets created by the scrips in **Cleaning**. **Merging** contains the scripts that will create our merged data, which will be stored in **Datasets/Merged**.
 <h2> Datasets </h2>
 
 There are three datasets contained in **Datasets/Imported**.
@@ -26,7 +26,7 @@ The third dataset is ONET located in **Datasets/Imported/ONET Data** and can be 
 <h2> Cleaning and Cleaned Datasets </h2>
 <h3> Cleaning BLS Industry Data </h3> 
 
-The BLS data is handled by the script **Cleaning/readingLP.R**. What this script accomplishes is that it takes in all the BLS Labor Productivity data, filters for just the metrics that inform us the annual industry-specific labor productivity metrics and combines the various explanatory data spread out among all the data files into just one table. This script outputs two files, **Datasets/Cleaned/lp_current.csv** and **Datasets/Cleaned/lp_all.csv**. These datasets are identical except for the fact that **Datasets/Cleaned/lp_all.csv** goes from 1987 to 2019, while **Datasets/Cleaned/lp_current.csv** goes from 2001 to 2019. This difference occurs because the BLS raw data contains two separate data files that also make this distinction (**Datasets/Imported/Industry Data/ip.data.0.Current.txt** and **Datasets/Imported/Industry Data/ip.data.1.AllData.txt**). 
+The BLS data is handled by the script **Cleaning/readingLP.R**. What this script accomplishes is that it takes in all the BLS Labor Productivity data, filters for just the metrics that inform us the annual industry-specific labor productivity metrics and combines the various explanatory data spread out among all the data files into just one table. Then, we construct a productivity measure for each industry by determining the monetary value of the output produced per hour. This script outputs , **Datasets/Cleaned/lp_current.csv** which goes from 2001 to 2019. 
 
 <h3> Cleaning the ONET data </h3> 
 
@@ -38,3 +38,8 @@ The ACS data is handled by the script **Cleaning/readingACS.R**. This script pro
 
 The creation of this crosswalk is handled by the script **Cleaning/crosswalk.R**. What this crosswalk does is match the INDNAICS codes from the ACS data to the NAICS code used by the BLS Labor Productivity data. In particular, this crosswalk only conatins the INDNAICS codes that can be mapped to a NAICS code to the BLS Labor Productivity data, and vice versa. Not all INDNAICS codes can be mapped to a NAICS code which the BLS contains industry productivity data on (notable examples includes industries that start with 1 or 9). This script produces the deliverable **Datasets/Cleaned/full_crosswalk.csv** that contains this crosswalk. 
 
+<h2> Combining Datasets </h2>
+
+<h3> ACS wage-productivity data </h3>
+
+Next, we merged the ACS data from IPUMS with our BLS Labor productivity data using full_crosswalk to map INDNAICS codes to NAICS codes. This work was done in **Merging/ACS_wage_productivity.R** We also constructed an hourly wage measure using the WKSWORK1, WORKSWORK2 (the number of weeks one worked in a year),  UHRSWORK (hours worked in a week), and INCWAGE (income) variables before selecting on hourly wage data greater than 3 and individuals who worked more than 20 hours a week. To verify the validity of our results, we checked to see if the college premium as reflected in the data was increasing over time, which it was. The exported dataset only includes selected variables from the final dataset to reduce file size and is stored in **Datasets/Merged/ACS_wage_productivity.csv**. An important nuance is that this script uses a different ACS pull from IPUMS (**usa_00009.dat**) that is identical to the one used in cleaning the ACS data (**usa_00008.dat**) except that it includes some extra variables needed to calculate an individual's hourly wage. 

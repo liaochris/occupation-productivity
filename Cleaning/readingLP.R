@@ -5,6 +5,8 @@ library(dplyr)
 library(glue)
 library(stringr)
 library(data.table)
+library(sjmisc)
+library(tidyr)
 
 #change directory as appropriate
 setwd("~/Google Drive/Non-Academic Work/Research/Traina/occupation-productivity/")
@@ -45,11 +47,6 @@ series <- read_delim("Datasets/Imported/Industry Data/ip.series.txt",
                      delim = "\t")
 
 data_current <- read_delim("Datasets/Imported/Industry Data/ip.data.0.Current.txt",
-                           col_types = list(col_character(), col_number(), col_character(),  col_number(), 
-                                            col_character()),
-                           delim = "\t")
-
-data_all <- read_delim("Datasets/Imported/Industry Data/ip.data.1.AllData.txt",
                            col_types = list(col_character(), col_number(), col_character(),  col_number(), 
                                             col_character()),
                            delim = "\t")
@@ -127,15 +124,24 @@ series_expanded <- series_expanded[,c(1:target_col,
 #merge data_all and series_expanded
 colnames(series_expanded) <- lapply(colnames(series_expanded), str_trim)
 colnames(data_current) <- lapply(colnames(data_current), str_trim)
-colnames(data_all) <- lapply(colnames(data_all), str_trim)
 data_current$footnote_codes[is.na(data_current$footnote_codes)] <- ""
-data_all$footnote_codes[is.na(data_all$footnote_codes)] <- ""
 data_current_expanded <- left_join(data_current, series_expanded, by = c("series_id", "footnote_codes"))
-data_all_expanded <- left_join(data_all, series_expanded, by = c("series_id", "footnote_codes"))
 
-#filtering for just the labor productivity data
-lp_current <- data_current_expanded %>% filter(measure_code == 'L00')
-lp_all <- data_all_expanded %>% filter(measure_code == 'L00')
+#filtering for just the columns that have numbers representing real values not a scale
+lp_current_prod <- data_current_expanded %>% 
+  filter(!grepl("(2007=100)", data_current_expanded$measure_text)) %>%
+  filter(duration_code == 0) %>%
+  filter(industry_code != "N______")
 
-system.time(fwrite(lp_current, "Datasets/Cleaned/lp_current.csv", nThread = 10))
-system.time(fwrite(lp_all, "Datasets/Cleaned/lp_all.csv", nThread = 10))
+#getting labor productivity columns (hours worked in millions, employment in thousands, value of production in millions)
+lp_current <- lp_current_prod %>% filter(measure_code %in% c("L20", "W20", "T30"))
+lp_current_wide <- pivot_wider(data = lp_current %>% 
+                                 select(c(`year`, `sector_code`, `sector_text`, `industry_code`,
+                                          `industry_text`, `measure_code`, `value`)) %>% 
+                                 distinct(), 
+                               names_from = measure_code, values_from = value)
+lp_current_rows <- which(rowSums(is.na(lp_current_wide %>% select(c("L20", "W20", "T30")))) == 0)
+lp_current_wide_filled <- lp_current_wide[lp_current_rows,]
+lp_current_wide_filled$productivity <- lp_current_wide_filled$T30/lp_current_wide_filled$L20
+
+system.time(fwrite(lp_current_wide_filled, "Datasets/Cleaned/lp_current.csv", nThread = 10))

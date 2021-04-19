@@ -26,9 +26,10 @@ if (!(file.exists(fname))) {
 }
 
 #read in ACS data
-ddi <- read_ipums_ddi("ACS/usa_00008.xml")
+ddi <- read_ipums_ddi("Datasets/Imported/ACS/usa_00008.xml")
 data <- data.table(read_ipums_micro(ddi))
 
+#Handling occupation/industry grouping
 #remove unneeded columns
 columns <- c("YEAR", "SAMPLE", "SERIAL", "CBSERIAL", "CLUSTER", "STRATA", "PERWT", 
              "OCC1990", "OCC2010", "OCCSOC", "INDNAICS", "INDNAICS")

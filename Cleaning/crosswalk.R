@@ -42,8 +42,8 @@ indnaics_crosswalk <- indnaics_crosswalk %>%
   select(-c(" \t\t\tIND CODE \t\t\t(2003-onward ACS/PRCS) \t\t", "2002 NAICS EQUIVALENT"))
 colnames(indnaics_crosswalk) <- trimws(colnames(indnaics_crosswalk))
 #removing values where INDNAICS does not map to a valid NAICS column
-indnaics_crosswalk <- indnaics_crosswalk %>% filter(`2007 NAICS EQUIVALENT` != NA |
-                                                      `2007 NAICS EQUIVALENT` != "------")
+indnaics_crosswalk <- indnaics_crosswalk[!is.na(indnaics_crosswalk$`2007 NAICS EQUIVALENT`),]
+indnaics_crosswalk <- indnaics_crosswalk %>% filter(`2007 NAICS EQUIVALENT` != "------")
 
 print("Parts of")
 mean(unlist(lapply(indnaics_crosswalk$`2007 NAICS EQUIVALENT`, function (x) grepl("Part of", x))))
@@ -72,6 +72,7 @@ indnaics_crosswalk$EXCLUDE <- NA
 indnaics_crosswalk_mod <- foreach(i = 1:dim(indnaics_crosswalk)[1], .combine = 'bind_rows') %do% {
   selRow <- indnaics_crosswalk[i,]
   val <- selRow[[4]]
+  selRow$`2007 NAICS EQUIVALENT` <- as.character(selRow$`2007 NAICS EQUIVALENT`)
   if (grepl("exc", val)) {
     start <- str_locate_all(pattern ='exc.', val)[[1]][1]
     end <- str_locate_all(pattern ='exc.', val)[[1]][2]
@@ -271,5 +272,18 @@ print("input crosswalks overlap with ACS data, 1/9 NAICS codes excluded")
 indnaics_acs <- mean(acs_indnaics %in% union(indnaics_crosswalk_temp$code, 
                                              indnaics_crosswalk$`INDNAICS CODE 			(2003-onward ACS/PRCS)`))
 print(indnaics_acs)
+
+full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)` <- gsub(" \\(2003-2004\\)", "", full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)`)
+full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)` <- gsub(" \\(2003-2007\\)", "", full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)`)
+full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)` <- gsub(" \\(2003-2007", "", full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)`)
+full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)` <- gsub(" \\t", "", full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)`)
+
+fwrite(full_crosswalk_final, "Datasets/Cleaned/full_crosswalk.csv", nThread = 10)
+
+full_crosswalk_final <- fread("Datasets/Cleaned/full_crosswalk.csv")
+coln_inc <- colnames(full_crosswalk_final)
+duplicates <- duplicated(full_crosswalk_final, by = c(coln_inc[3], coln_inc[6]))
+full_crosswalk_final <- full_crosswalk_final[!duplicates,]
+full_crosswalk_final <- full_crosswalk_final[order(full_crosswalk_final$`INDNAICS CODE 			(2003-onward ACS/PRCS)`),]
 
 fwrite(full_crosswalk_final, "Datasets/Cleaned/full_crosswalk.csv", nThread = 10)
