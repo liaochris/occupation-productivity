@@ -42,7 +42,7 @@ The creation of this crosswalk is handled by the script **Cleaning/crosswalk.R**
 
 <h3> ACS wage-productivity data </h3>
 
-<h4> BLS Labor Productivity Data
+<h4> BLS Labor Productivity Data </h4>
 
 Next, we merged the ACS data from IPUMS with our BLS Labor productivity data using full_crosswalk to map INDNAICS codes to NAICS codes. This work was done in **Merging/ACS_wage_productivity.R** We also constructed an hourly wage measure using the WKSWORK1, WORKSWORK2 (the number of weeks one worked in a year),  UHRSWORK (hours worked in a week), and INCWAGE (income) variables before selecting on hourly wage data greater than 3 and individuals who worked more than 20 hours a week. To verify the validity of our results, we checked to see if the college premium as reflected in the data was increasing over time, which it was. The exported dataset only includes selected variables from the final dataset to reduce file size and is stored in **Datasets/Merged/ACS_wage_productivity.dta** but has not been uploaded due to file size limitations (it is ~3gb). An important nuance is that this script uses a different ACS pull from IPUMS (**wages/usa_00010.dat**) that is identical to the one used in cleaning the ACS data (**usa_00008.dat**) except that it includes some extra variables needed to calculate an individual's hourly wage. 
 
