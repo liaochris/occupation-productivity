@@ -1,257 +1,228 @@
-naics,indnaics,industry_code,industry_text,naics2017,naics2012,naics2007,naics2002
-211,211,N211___,Oil and gas extraction,211,211,211,211
-2121,2121,N2121__,Coal mining,2121,2121,2121,2121
-2122,2122,N2122__,Metal ore mining,2122,2122,2122,2122
-2123,2123,N2123__,Nonmetallic mineral mining and quarrying,2123,2123,2123,2123
-21,21S,N21____,Mining,21,21,21,21
-213,213,N213___,Support activities for mining,213,213,213,213
-2211,2211P,N2211__,"Electric power generation, transmission and distribution",2211,2211,2211,2211
-2212,2212P,N2212__,Natural gas distribution,2212,2212,2212,2212
-2211,221MP,N2211__,"Electric power generation, transmission and distribution",2211,2211,2211,2211
-2212,221MP,N2212__,Natural gas distribution,2212,2212,2212,2212
-22,22S,N22____,Utilities,22,22,22,22
-3111,311M1,N3111__,Animal food manufacturing,3111,3111,3111,3111
-3112,311M1,N3112__,Grain and oilseed milling,3112,3112,3112,3112
-3113,3113,N3113__,Sugar and confectionery product manufacturing,3113,3113,3113,3113
-3114,3114,N3114__,Fruit and vegetable preserving and specialty food manufacturing,3114,3114,3114,3114
-3115,3115,N3115__,Dairy product manufacturing,3115,3115,3115,3115
-3116,3116,N3116__,Animal slaughtering and processing,3116,3116,3116,3116
-311811,311811,N311811,Retail bakeries,311811,311811,311811,311811
-3118,3118Z,N3118__,Bakeries and tortilla manufacturing,3118,3118,3118,3118
-3117,311M2,N3117__,Seafood product preparation and packaging,3117,3117,3117,3117
-3119,311M2,N3119__,Other food manufacturing,3119,3119,3119,3119
-311,311S,N311___,Food manufacturing,311,311,311,311
-3121,3121,N3121__,Beverage manufacturing,3121,3121,3121,3121
-3122,3122,N3122__,Tobacco manufacturing,3122,3122,3122,3122
-3131,3131,N3131__,"Fiber, yarn, and thread mills",3131,3131,3131,3131
-3132,3132Z,N3132__,Fabric mills,3132,3132,3132,3132
-3133,3133,N3133__,Textile and fabric finishing and fabric coating mills,3133,3133,3133,3133
-314,314Z,N314___,Textile product mills,314,314,314,314
-3151,31M,N3151__,Apparel knitting mills,3151,3151,3151,3151
-3152,3152,N3152__,Cut and sew apparel manufacturing,3152,3152,3152,3152
-3159,3159,N3159__,Apparel accessories and other apparel manufacturing,3159,3159,3159,3159
-3159,315M,N3159__,Apparel accessories and other apparel manufacturing,3159,3159,3159,3159
-3162,3162,N3162__,Footwear manufacturing,3162,3162,3162,3162
-3161,316M,N3161__,Leather and hide tanning and finishing,3161,3161,3161,3161
-3169,316M,N3169__,Other leather and allied product manufacturing,3169,3169,3169,3169
-3221,3221,N3221__,"Pulp, paper, and paperboard mills",3221,3221,3221,3221
-32221,32221,N32221_,Paperboard container manufacturing,32221,32221,32221,32221
-32411,32411,N32411_,Petroleum refineries,32411,32411,32411,32411
-3252,3252,N3252__,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3252,3252,3252,3252
-3253,3253,N3253__,"Pesticide, fertilizer, and other agricultural chemical manufacturing",3253,3253,3253,3253
-3254,3254,N3254__,Pharmaceutical and medicine manufacturing,3254,3254,3254,3254
-3255,3255,N3255__,"Paint, coating, and adhesive manufacturing",3255,3255,3255,3255
-3256,3256,N3256__,"Soap, cleaning compound, and toilet preparation manufacturing",3256,3256,3256,3256
-3251,325M,N3251__,Basic chemical manufacturing,3251,3251,3251,3251
-3259,325M,N3259__,Other chemical product and preparation manufacturing,3259,3259,3259,3259
-3261,3261,N3261__,Plastics product manufacturing,3261,3261,3261,3261
-3272,3272,N3272__,Glass and glass product manufacturing,3272,3272,3272,3272
-3273,327M,N3273__,Cement and concrete product manufacturing,3273,3273,3273,3273
-3274,327M,N3274__,Lime and gypsum product manufacturing,3274,3274,3274,3274
-3279,3279,N3279__,Other nonmetallic mineral product manufacturing,3279,3279,3279,3279
-3311,331M,N3311__,Iron and steel mills and ferroalloy production,3311,3311,3311,3311
-3312,331M,N3312__,Steel product manufacturing from purchased steel,3312,3312,3312,3312
-3313,3313,N3313__,Alumina and aluminum production and processing,3313,3313,3313,3313
-3314,3314,N3314__,Nonferrous metal (except aluminum) production and processing,3314,3314,3314,3314
-3315,3315,N3315__,Foundries,3315,3315,3315,3315
-3321,3321,N3321__,Forging and stamping,3321,3321,3321,3321
-3322,3322,N3322__,Cutlery and handtool manufacturing,3322,3322,3322,3322
-3323,332M,N3323__,Architectural and structural metals manufacturing,3323,3323,3323,3323
-3324,332M,N3324__,"Boiler, tank, and shipping container manufacturing",3324,3324,3324,3324
-3327,3327,N3327__,"Machine shops; turned product; and screw, nut, and bolt manufacturing",3327,3327,3327,3327
-3328,3328,N3328__,"Coating, engraving, heat treating, and allied activities",3328,3328,3328,3328
-331,33MS,N331___,Primary metal manufacturing,331,331,331,331
-332,33MS,N332___,Fabricated metal product manufacturing,332,332,332,332
-3333,3333,N3333__,Commercial and service industry machinery,3333,3333,3333,3333
-3335,3335,N3335__,Metalworking machinery manufacturing,3335,3335,3335,3335
-3336,3336,N3336__,"Engine, turbine, and power transmission equipment manufacturing",3336,3336,3336,3336
-3332,333M,N3332__,Industrial machinery,3332,3332,3332,3332
-3332,333MS,N3332__,Industrial machinery,3332,3332,3332,3332
-3334,333M,N3334__,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",3334,3334,3334,3334
-3334,333MS,N3334__,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",3334,3334,3334,3334
-3339,333M,N3339__,Other general purpose machinery manufacturing,3339,3339,3339,3339
-3339,333MS,N3339__,Other general purpose machinery manufacturing,3339,3339,3339,3339
-333,333S,N333___,Machinery manufacturing,333,333,333,333
-333,333MS,N333___,Machinery manufacturing,333,333,333,333
-3341,3341,N3341__,Computer and peripheral equipment manufacturing,3341,3341,3341,3341
-3342,334M1,N3342__,Communications equipment manufacturing,3342,3342,3342,3342
-3343,334M1,N3343__,Audio and video equipment manufacturing,3343,3343,3343,3343
-3345,3345,N3345__,"Navigational, measuring, electromedical, and control instruments manufacturing",3345,3345,3345,3345
-3344,334M2,N3344__,Semiconductor and other electronic component manufacturing,3344,3344,3344,3344
-3346,334M2,N3346__,Manufacturing and reproducing magnetic and optical media,3346,3346,3346,3346
-3352,3352,N3352__,Household appliance manufacturing,3352,3352,3352,3352
-3351,335M,N3351__,Electric lighting equipment manufacturing,3351,3351,3351,3351
-3353,335M,N3353__,Electrical equipment manufacturing,3353,3353,3353,3353
-3359,335M,N3359__,Other electrical equipment and component manufacturing,3359,3359,3359,3359
-3361,336M,N3361__,Motor vehicle manufacturing,3361,3361,3361,3361
-3362,336M,N3362__,Motor vehicle body and trailer manufacturing,3362,3362,3362,3362
-3363,336M,N3363__,Motor vehicle parts manufacturing,3363,3363,3363,3363
-336411,33641M1,N336411,Aircraft manufacturing,336411,336411,336411,336411
-3365,3365,N3365__,Railroad rolling stock manufacturing,3365,3365,3365,3365
-3366,3366,N3366__,Ship and boat building,3366,3366,3366,3366
-3369,3369,N3369__,Other transportation equipment manufacturing,3369,3369,3369,3369
-3211,3211,N3211__,Sawmills and wood preservation,3211,3211,3211,3211
-3212,3212,N3212__,"Veneer, plywood, and engineered wood product manufacturing",3212,3212,3212,3212
-337,337,N337___,Furniture and related product manufacturing,337,337,337,337
-3391,3391,N3391__,Medical equipment and supplies manufacturing,3391,3391,3391,3391
-4231,4231,N4231__,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,4231,4231,4231,4231
-4232,4232,N4232__,Furniture and home furnishing merchant wholesalers,4232,4232,4232,4232
-4233,4233,N4233__,Lumber and other construction materials merchant wholesalers,4233,4233,4233,4233
-4234,4234,N4234__,Professional and commercial equipment and supplies merchant wholesalers,4234,4234,4234,4234
-4235,4235,N4235__,Metal and mineral (except petroleum) merchant wholesalers,4235,4235,4235,4235
-4236,4236,N4236__,Electrical and electronic goods merchant wholesalers,4236,4236,4236,4236
-4237,4237,N4237__,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers",4237,4237,4237,4237
-4238,4238,N4238__,"Machinery, equipment, and supplies merchant wholesalers",4238,4238,4238,4238
-4239,4239Z,N4239__,Miscellaneous durable goods merchant wholesalers,4239,4239,4239,4239
-4241,4241,N4241__,Paper and paper product merchant wholesalers,4241,4241,4241,4241
-4242,424M,N4242__,Drugs and druggists' sundries merchant wholesalers,4242,4242,4242,4242
-4246,424M,N4246__,Chemical and allied products merchant wholesalers,4246,4246,4246,4246
-4243,4243,N4243__,"Apparel, piece goods, and notions merchant wholesalers",4243,4243,4243,4243
-4244,4244,N4244__,Grocery and related product wholesalers,4244,4244,4244,4244
-4245,4245,N4245__,Farm product raw material merchant wholesalers,4245,4245,4245,4245
-4247,4247,N4247__,Petroleum and petroleum products merchant wholesalers,4247,4247,4247,4247
-4248,4248,N4248__,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",4248,4248,4248,4248
-4249,4249Z,N4249__,Miscellaneous nondurable goods merchant wholesalers,4249,4249,4249,4249
-4251,4251,N4251__,Wholesale electronic markets and agents and brokers,4251,4251,4251,4251
-42,42S,N42____,Wholesale trade,42,42,42,42
-4411,4411,N4411__,Automobile dealers,4411,4411,4411,4411
-4412,4412,N4412__,Other motor vehicle dealers,4412,4412,4412,4412
-4413,4413,N4413__,"Automotive parts, accessories, and tire stores",4413,4413,4413,4413
-442,442,N442___,Furniture and home furnishings stores,442,442,442,442
-443111,443111,N443141,Household appliance stores,443141,443141,443111,443111
-443111,443141,N443141,Household appliance stores,443141,443141,443111,443111
-443141,443111,N443141,Household appliance stores,443141,443141,443111,443111
-443141,443141,N443141,Household appliance stores,443141,443141,443111,443111
-443112,4431M,N443142,Electronics stores,443142,443142,443112,443112
-443112,443142,N443142,Electronics stores,443142,443142,443112,443112
-443142,4431M,N443142,Electronics stores,443142,443142,443112,443112
-443142,4431M,N443142,Electronics stores,443142,443142,443120,443120
-443142,4431M,N443142,Electronics stores,443142,443142,443130,443130
-443142,4431M,N443142,Electronics stores,443142,443142,451220,451220
-443142,443142,N443142,Electronics stores,443142,443142,443112,443112
-443142,443142,N443142,Electronics stores,443142,443142,443120,443120
-443142,443142,N443142,Electronics stores,443142,443142,443130,443130
-443142,443142,N443142,Electronics stores,443142,443142,451220,451220
-4441,4441Z,N4441__,Building material and supplies dealers,4441,4441,4441,4441
-44413,44413,N44413_,Hardware stores,44413,44413,44413,44413
-4442,4442,N4442__,Lawn and garden equipment and supplies stores,4442,4442,4442,4442
-4451,4451,N4451__,Grocery stores,4451,4451,4451,4451
-4451,44511,N4451__,Grocery stores,4451,4451,4451,4451
-4451,44512,N4451__,Grocery stores,4451,4451,4451,4451
-4452,4452,N4452__,Specialty food stores,4452,4452,4452,4452
-4453,4453,N4453__,"Beer, wine, and liquor stores",4453,4453,4453,4453
-44611,44611,N44611_,Pharmacies and drug stores,44611,44611,44611,44611
-446,446Z,N446___,Health and personal care stores,446,446,446,446
-447,447,N447___,Gasoline stations,447,447,447,447
-44821,44821,N44821_,Shoe stores,44821,44821,44821,44821
-4483,4483,N4483__,"Jewelry, luggage, and leather goods stores",4483,4483,4483,4483
-45111,4M,N45111_,Sporting goods stores,45111,45111,45111,45111
-45111,4511M,N45111_,Sporting goods stores,45111,45111,45111,45111
-45112,4M,N45112_,"Hobby, toy, and game stores",45112,45112,45112,45112
-45112,4511M,N45112_,"Hobby, toy, and game stores",45112,45112,45112,45112
-45121,45121,N45121_,Book stores and news dealers,45121,45121,45121,45121
-4531,4531,N4531__,Florists,4531,4531,4531,4531
-45321,45321,N45321_,Office supplies and stationery stores,45321,45321,45321,45321
-4533,4533,N4533__,Used merchandise stores,4533,4533,4533,4533
-45322,45322,N45322_,"Gift, novelty, and souvenir stores",45322,45322,45322,45322
-4539,4539,N4539__,Other miscellaneous store retailers,4539,4539,4539,4539
-4542,4542,N4542__,Vending machine operators,4542,4542,4542,4542
-45431,45431,N45431_,Fuel dealers,45431,45431,45431,45431
-45431,454310,N45431_,Fuel dealers,45431,45431,45431,45431
-45439,45439,N45439_,Other direct selling establishments,45439,45439,45439,45439
-481,481,N481___,Air transportation,481,481,481,481
-484,484,N484___,Truck transportation,484,484,484,484
-491,491,N491___,Postal service,491,491,491,491
-492,492,N492___,Couriers and messengers,492,492,492,492
-493,493,N493___,Warehousing and storage,493,493,493,493
-51111,51111,N51111_,Newspaper publishers,51111,51111,51111,51111
-5111,5111Z,N5111__,"Newspaper, periodical, book, and directory publishers",5111,5111,5111,5111
-5112,5112,N5112__,Software publishers,5112,5112,5112,5112
-52211,52M1,N52211_,Commercial banking,52211,52211,52211,52211
-5412,5412,N5412__,"Accounting, tax preparation, bookkeeping, and payroll services",5412,5412,5412,5412
-54194,54194,N54194_,Veterinary services,54194,54194,54194,54194
-5615,5615,N5615__,Travel arrangement and reservation services,5615,5615,5615,5615
-6215,621M,N6215__,Medical and diagnostic laboratories,6215,6215,6215,6215
-71395,71395,N71395_,Bowling centers,71395,71395,71395,71395
-7211,7211,N7211__,Traveler accommodation,7211,7211,7211,7211
-722,722Z,N722___,Food services and drinking places,722,722,722,722
-7224,7224,N7224__,Drinking places (alcoholic beverages),7224,7224,7224,7224
-8111,8111Z,N8111__,Automotive repair and maintenance,8111,8111,8111,8111
-8123,8123,N8123__,Drycleaning and laundry services,8123,8123,8123,8123
-323,323,N323___,Printing and related support activities,323,323,323,323
-323,3231,N323___,Printing and related support activities,323,323,323,323
-3231,323,N3231__,Printing and related support activities,3231,3231,3231,3231
-3231,3231,N3231__,Printing and related support activities,3231,3231,3231,3231
-4541,4541,N4541__,Electronic shopping and mail-order houses,4541,4541,4541,4541
-515,51M,N515___,Broadcasting (except internet),515,515,515,515
-515,515,N515___,Broadcasting (except internet),515,515,515,515
-4541,454111,N4541__,Electronic shopping and mail-order houses,4541,4541,4541,4541
-4541,454110,N4541__,Electronic shopping and mail-order houses,4541,4541,4541,4541
-332992,33299M,N33299_,All other fabricated metal product manufacturing,33299,33299,33299,33299
-332993,33299M,N33299_,All other fabricated metal product manufacturing,33299,33299,33299,33299
-332994,33299M,N33299_,All other fabricated metal product manufacturing,33299,33299,33299,33299
-332995,33299M,N33299_,All other fabricated metal product manufacturing,33299,33299,33299,33299
-336412,33641M1,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336413,33641M1,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336414,33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336415,33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336416,33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336417,33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336418,33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-336419,33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
-321991,32199M,N32199_,All other wood product manufacturing,32199,32199,32199,32199
-321992,32199M,N32199_,All other wood product manufacturing,32199,32199,32199,32199
-454112,454112,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454112,454110,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454110,454112,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454110,454110,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454113,454113,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454113,454110,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454110,454113,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-812111,812111,N81211_,"Hair, nail, and skin care services",81211,81211,81211,81211
-812112,812112,N81211_,"Hair, nail, and skin care services",81211,81211,81211,81211
-812113,8121M,N81211_,"Hair, nail, and skin care services",81211,81211,81211,81211
-454111,4541,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454110,4541,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454111,454111,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454111,454110,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-454110,454111,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
-22131,2213M,N2213__,"Water, sewage and other systems",2213,2213,2213,2213
-22133,2213M,N2213__,"Water, sewage and other systems",2213,2213,2213,2213
-22132,22132,N2213__,"Water, sewage and other systems",2213,2213,2213,2213
-31411,31411,N3141__,Textile furnishings mills,3141,3141,3141,3141
-31324,31M,N3132__,Fabric mills,3132,3132,3132,3132
-32222,3222M,N3222__,Converted paper product manufacturing,3222,3222,3222,3222
-32223,3222M,N3222__,Converted paper product manufacturing,3222,3222,3222,3222
-32229,3222M,N3222__,Converted paper product manufacturing,3222,3222,3222,3222
-32621,32621,N3262__,Rubber product manufacturing,3262,3262,3262,3262
-32622,3262M,N3262__,Rubber product manufacturing,3262,3262,3262,3262
-32629,3262M,N3262__,Rubber product manufacturing,3262,3262,3262,3262
-32711,32711,N3271__,Clay product and refractory manufacturing,3271,3271,3271,3271
-32712,32712,N3271__,Clay product and refractory manufacturing,3271,3271,3271,3271
-32712,327120,N3271__,Clay product and refractory manufacturing,3271,3271,3271,3271
-33311,33311,N3331__,"Agriculture, construction, and mining machinery",3331,3331,3331,3331
-33312,3331M,N3331__,"Agriculture, construction, and mining machinery",3331,3331,3331,3331
-33313,3331M,N3331__,"Agriculture, construction, and mining machinery",3331,3331,3331,3331
-33992,3399M,N3399__,Other miscellaneous manufacturing,3399,3399,3399,3399
-33993,3399M,N3399__,Other miscellaneous manufacturing,3399,3399,3399,3399
-42393,42393,N4239__,Miscellaneous durable goods merchant wholesalers,4239,4239,4239,4239
-42491,42491,N4249__,Miscellaneous nondurable goods merchant wholesalers,4249,4249,4249,4249
-44312,4431M,N4431__,Electronics and appliance stores,4431,4431,4431,4431
-44312,443142,N4431__,Electronics and appliance stores,4431,4431,4431,4431
-44313,4M,N4431__,Electronics and appliance stores,4431,4431,4431,4431
-44313,4511M,N4431__,Electronics and appliance stores,4431,4431,4431,4431
-45113,45113,N4511__,"Sporting goods, hobby, and musical instrument stores",4511,4511,4511,4511
-45114,451M,N4511__,"Sporting goods, hobby, and musical instrument stores",4511,4511,4511,4511
-45114,45114,N4511__,"Sporting goods, hobby, and musical instrument stores",4511,4511,4511,4511
-45122,451M,N4512__,Book stores and news dealers,4512,4512,4512,4512
-45122,45114,N4512__,Book stores and news dealers,4512,4512,4512,4512
-811192,811192,N8111__,Automotive repair and maintenance,8111,8111,8111,8111
-32412,3241M,N3241__,Petroleum and coal products manufacturing,3241,3241,3241,3241
-32419,3241M,N3241__,Petroleum and coal products manufacturing,3241,3241,3241,3241
-45211,45211,N452___,General merchandise stores,452,452,452,452
-45211,45221,N452___,General merchandise stores,452,452,452,452
-4529,4529,N452___,General merchandise stores,452,452,452,452
-4529,4523,N452___,General merchandise stores,452,452,452,452
-7212,721M,N721___,Accommodation,721,721,721,721
-7213,721M,N721___,Accommodation,721,721,721,721
+indnaics,industry_code,industry_text,naics2017,naics2012,naics2007,naics2002
+211,N211___,Oil and gas extraction,211,211,211,211
+2121,N2121__,Coal mining,2121,2121,2121,2121
+2122,N2122__,Metal ore mining,2122,2122,2122,2122
+2123,N2123__,Nonmetallic mineral mining and quarrying,2123,2123,2123,2123
+21S,N21____,Mining,21,21,21,21
+213,N213___,Support activities for mining,213,213,213,213
+2211P,N2211__,"Electric power generation, transmission and distribution",2211,2211,2211,2211
+2212P,N2212__,Natural gas distribution,2212,2212,2212,2212
+221MP,N2211__,"Electric power generation, transmission and distribution",2211,2211,2211,2211
+221MP,N2212__,Natural gas distribution,2212,2212,2212,2212
+22S,N22____,Utilities,22,22,22,22
+311M1,N3111__,Animal food manufacturing,3111,3111,3111,3111
+311M1,N3112__,Grain and oilseed milling,3112,3112,3112,3112
+3113,N3113__,Sugar and confectionery product manufacturing,3113,3113,3113,3113
+3114,N3114__,Fruit and vegetable preserving and specialty food manufacturing,3114,3114,3114,3114
+3115,N3115__,Dairy product manufacturing,3115,3115,3115,3115
+3116,N3116__,Animal slaughtering and processing,3116,3116,3116,3116
+311811,N311811,Retail bakeries,311811,311811,311811,311811
+3118Z,N3118__,Bakeries and tortilla manufacturing,3118,3118,3118,3118
+311M2,N3117__,Seafood product preparation and packaging,3117,3117,3117,3117
+311M2,N3119__,Other food manufacturing,3119,3119,3119,3119
+311S,N311___,Food manufacturing,311,311,311,311
+3121,N3121__,Beverage manufacturing,3121,3121,3121,3121
+3122,N3122__,Tobacco manufacturing,3122,3122,3122,3122
+3131,N3131__,"Fiber, yarn, and thread mills",3131,3131,3131,3131
+3132Z,N3132__,Fabric mills,3132,3132,3132,3132
+3133,N3133__,Textile and fabric finishing and fabric coating mills,3133,3133,3133,3133
+314Z,N314___,Textile product mills,314,314,314,314
+31M,N3151__,Apparel knitting mills,3151,3151,3151,3151
+3152,N3152__,Cut and sew apparel manufacturing,3152,3152,3152,3152
+3159,N3159__,Apparel accessories and other apparel manufacturing,3159,3159,3159,3159
+315M,N3159__,Apparel accessories and other apparel manufacturing,3159,3159,3159,3159
+3162,N3162__,Footwear manufacturing,3162,3162,3162,3162
+316M,N3161__,Leather and hide tanning and finishing,3161,3161,3161,3161
+316M,N3169__,Other leather and allied product manufacturing,3169,3169,3169,3169
+3221,N3221__,"Pulp, paper, and paperboard mills",3221,3221,3221,3221
+32221,N32221_,Paperboard container manufacturing,32221,32221,32221,32221
+32411,N32411_,Petroleum refineries,32411,32411,32411,32411
+3252,N3252__,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3252,3252,3252,3252
+3253,N3253__,"Pesticide, fertilizer, and other agricultural chemical manufacturing",3253,3253,3253,3253
+3254,N3254__,Pharmaceutical and medicine manufacturing,3254,3254,3254,3254
+3255,N3255__,"Paint, coating, and adhesive manufacturing",3255,3255,3255,3255
+3256,N3256__,"Soap, cleaning compound, and toilet preparation manufacturing",3256,3256,3256,3256
+325M,N3251__,Basic chemical manufacturing,3251,3251,3251,3251
+325M,N3259__,Other chemical product and preparation manufacturing,3259,3259,3259,3259
+3261,N3261__,Plastics product manufacturing,3261,3261,3261,3261
+3272,N3272__,Glass and glass product manufacturing,3272,3272,3272,3272
+327M,N3273__,Cement and concrete product manufacturing,3273,3273,3273,3273
+327M,N3274__,Lime and gypsum product manufacturing,3274,3274,3274,3274
+3279,N3279__,Other nonmetallic mineral product manufacturing,3279,3279,3279,3279
+331M,N3311__,Iron and steel mills and ferroalloy production,3311,3311,3311,3311
+331M,N3312__,Steel product manufacturing from purchased steel,3312,3312,3312,3312
+3313,N3313__,Alumina and aluminum production and processing,3313,3313,3313,3313
+3314,N3314__,Nonferrous metal (except aluminum) production and processing,3314,3314,3314,3314
+3315,N3315__,Foundries,3315,3315,3315,3315
+3321,N3321__,Forging and stamping,3321,3321,3321,3321
+3322,N3322__,Cutlery and handtool manufacturing,3322,3322,3322,3322
+332M,N3323__,Architectural and structural metals manufacturing,3323,3323,3323,3323
+332M,N3324__,"Boiler, tank, and shipping container manufacturing",3324,3324,3324,3324
+3327,N3327__,"Machine shops; turned product; and screw, nut, and bolt manufacturing",3327,3327,3327,3327
+3328,N3328__,"Coating, engraving, heat treating, and allied activities",3328,3328,3328,3328
+33MS,N331___,Primary metal manufacturing,331,331,331,331
+33MS,N332___,Fabricated metal product manufacturing,332,332,332,332
+3333,N3333__,Commercial and service industry machinery,3333,3333,3333,3333
+3335,N3335__,Metalworking machinery manufacturing,3335,3335,3335,3335
+3336,N3336__,"Engine, turbine, and power transmission equipment manufacturing",3336,3336,3336,3336
+333M,N3332__,Industrial machinery,3332,3332,3332,3332
+333MS,N3332__,Industrial machinery,3332,3332,3332,3332
+333M,N3334__,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",3334,3334,3334,3334
+333MS,N3334__,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",3334,3334,3334,3334
+333M,N3339__,Other general purpose machinery manufacturing,3339,3339,3339,3339
+333MS,N3339__,Other general purpose machinery manufacturing,3339,3339,3339,3339
+333S,N333___,Machinery manufacturing,333,333,333,333
+333MS,N333___,Machinery manufacturing,333,333,333,333
+3341,N3341__,Computer and peripheral equipment manufacturing,3341,3341,3341,3341
+334M1,N3342__,Communications equipment manufacturing,3342,3342,3342,3342
+334M1,N3343__,Audio and video equipment manufacturing,3343,3343,3343,3343
+3345,N3345__,"Navigational, measuring, electromedical, and control instruments manufacturing",3345,3345,3345,3345
+334M2,N3344__,Semiconductor and other electronic component manufacturing,3344,3344,3344,3344
+334M2,N3346__,Manufacturing and reproducing magnetic and optical media,3346,3346,3346,3346
+3352,N3352__,Household appliance manufacturing,3352,3352,3352,3352
+335M,N3351__,Electric lighting equipment manufacturing,3351,3351,3351,3351
+335M,N3353__,Electrical equipment manufacturing,3353,3353,3353,3353
+335M,N3359__,Other electrical equipment and component manufacturing,3359,3359,3359,3359
+336M,N3361__,Motor vehicle manufacturing,3361,3361,3361,3361
+336M,N3362__,Motor vehicle body and trailer manufacturing,3362,3362,3362,3362
+336M,N3363__,Motor vehicle parts manufacturing,3363,3363,3363,3363
+33641M1,N336411,Aircraft manufacturing,336411,336411,336411,336411
+3365,N3365__,Railroad rolling stock manufacturing,3365,3365,3365,3365
+3366,N3366__,Ship and boat building,3366,3366,3366,3366
+3369,N3369__,Other transportation equipment manufacturing,3369,3369,3369,3369
+3211,N3211__,Sawmills and wood preservation,3211,3211,3211,3211
+3212,N3212__,"Veneer, plywood, and engineered wood product manufacturing",3212,3212,3212,3212
+337,N337___,Furniture and related product manufacturing,337,337,337,337
+3391,N3391__,Medical equipment and supplies manufacturing,3391,3391,3391,3391
+4231,N4231__,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,4231,4231,4231,4231
+4232,N4232__,Furniture and home furnishing merchant wholesalers,4232,4232,4232,4232
+4233,N4233__,Lumber and other construction materials merchant wholesalers,4233,4233,4233,4233
+4234,N4234__,Professional and commercial equipment and supplies merchant wholesalers,4234,4234,4234,4234
+4235,N4235__,Metal and mineral (except petroleum) merchant wholesalers,4235,4235,4235,4235
+4236,N4236__,Electrical and electronic goods merchant wholesalers,4236,4236,4236,4236
+4237,N4237__,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers",4237,4237,4237,4237
+4238,N4238__,"Machinery, equipment, and supplies merchant wholesalers",4238,4238,4238,4238
+4239Z,N4239__,Miscellaneous durable goods merchant wholesalers,4239,4239,4239,4239
+4241,N4241__,Paper and paper product merchant wholesalers,4241,4241,4241,4241
+424M,N4242__,Drugs and druggists' sundries merchant wholesalers,4242,4242,4242,4242
+424M,N4246__,Chemical and allied products merchant wholesalers,4246,4246,4246,4246
+4243,N4243__,"Apparel, piece goods, and notions merchant wholesalers",4243,4243,4243,4243
+4244,N4244__,Grocery and related product wholesalers,4244,4244,4244,4244
+4245,N4245__,Farm product raw material merchant wholesalers,4245,4245,4245,4245
+4247,N4247__,Petroleum and petroleum products merchant wholesalers,4247,4247,4247,4247
+4248,N4248__,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",4248,4248,4248,4248
+4249Z,N4249__,Miscellaneous nondurable goods merchant wholesalers,4249,4249,4249,4249
+4251,N4251__,Wholesale electronic markets and agents and brokers,4251,4251,4251,4251
+42S,N42____,Wholesale trade,42,42,42,42
+4411,N4411__,Automobile dealers,4411,4411,4411,4411
+4412,N4412__,Other motor vehicle dealers,4412,4412,4412,4412
+4413,N4413__,"Automotive parts, accessories, and tire stores",4413,4413,4413,4413
+442,N442___,Furniture and home furnishings stores,442,442,442,442
+443111,N443141,Household appliance stores,443141,443141,443111,443111
+443141,N443141,Household appliance stores,443141,443141,443111,443111
+4431M,N443142,Electronics stores,443142,443142,443112,443112
+443142,N443142,Electronics stores,443142,443142,443112,443112
+4431M,N443142,Electronics stores,443142,443142,443120,443120
+4431M,N443142,Electronics stores,443142,443142,443130,443130
+4431M,N443142,Electronics stores,443142,443142,451220,451220
+443142,N443142,Electronics stores,443142,443142,443120,443120
+443142,N443142,Electronics stores,443142,443142,443130,443130
+443142,N443142,Electronics stores,443142,443142,451220,451220
+4441Z,N4441__,Building material and supplies dealers,4441,4441,4441,4441
+44413,N44413_,Hardware stores,44413,44413,44413,44413
+4442,N4442__,Lawn and garden equipment and supplies stores,4442,4442,4442,4442
+4451,N4451__,Grocery stores,4451,4451,4451,4451
+44511,N4451__,Grocery stores,4451,4451,4451,4451
+44512,N4451__,Grocery stores,4451,4451,4451,4451
+4452,N4452__,Specialty food stores,4452,4452,4452,4452
+4453,N4453__,"Beer, wine, and liquor stores",4453,4453,4453,4453
+44611,N44611_,Pharmacies and drug stores,44611,44611,44611,44611
+446Z,N446___,Health and personal care stores,446,446,446,446
+447,N447___,Gasoline stations,447,447,447,447
+44821,N44821_,Shoe stores,44821,44821,44821,44821
+4483,N4483__,"Jewelry, luggage, and leather goods stores",4483,4483,4483,4483
+4M,N45111_,Sporting goods stores,45111,45111,45111,45111
+4511M,N45111_,Sporting goods stores,45111,45111,45111,45111
+4M,N45112_,"Hobby, toy, and game stores",45112,45112,45112,45112
+4511M,N45112_,"Hobby, toy, and game stores",45112,45112,45112,45112
+45121,N45121_,Book stores and news dealers,45121,45121,45121,45121
+4531,N4531__,Florists,4531,4531,4531,4531
+45321,N45321_,Office supplies and stationery stores,45321,45321,45321,45321
+4533,N4533__,Used merchandise stores,4533,4533,4533,4533
+45322,N45322_,"Gift, novelty, and souvenir stores",45322,45322,45322,45322
+4539,N4539__,Other miscellaneous store retailers,4539,4539,4539,4539
+4542,N4542__,Vending machine operators,4542,4542,4542,4542
+45431,N45431_,Fuel dealers,45431,45431,45431,45431
+454310,N45431_,Fuel dealers,45431,45431,45431,45431
+45439,N45439_,Other direct selling establishments,45439,45439,45439,45439
+481,N481___,Air transportation,481,481,481,481
+484,N484___,Truck transportation,484,484,484,484
+491,N491___,Postal service,491,491,491,491
+492,N492___,Couriers and messengers,492,492,492,492
+493,N493___,Warehousing and storage,493,493,493,493
+51111,N51111_,Newspaper publishers,51111,51111,51111,51111
+5111Z,N5111__,"Newspaper, periodical, book, and directory publishers",5111,5111,5111,5111
+5112,N5112__,Software publishers,5112,5112,5112,5112
+52M1,N52211_,Commercial banking,52211,52211,52211,52211
+5412,N5412__,"Accounting, tax preparation, bookkeeping, and payroll services",5412,5412,5412,5412
+54194,N54194_,Veterinary services,54194,54194,54194,54194
+5615,N5615__,Travel arrangement and reservation services,5615,5615,5615,5615
+621M,N6215__,Medical and diagnostic laboratories,6215,6215,6215,6215
+71395,N71395_,Bowling centers,71395,71395,71395,71395
+7211,N7211__,Traveler accommodation,7211,7211,7211,7211
+722Z,N722___,Food services and drinking places,722,722,722,722
+7224,N7224__,Drinking places (alcoholic beverages),7224,7224,7224,7224
+8111Z,N8111__,Automotive repair and maintenance,8111,8111,8111,8111
+8123,N8123__,Drycleaning and laundry services,8123,8123,8123,8123
+323,N323___,Printing and related support activities,323,323,323,323
+3231,N323___,Printing and related support activities,323,323,323,323
+323,N3231__,Printing and related support activities,3231,3231,3231,3231
+3231,N3231__,Printing and related support activities,3231,3231,3231,3231
+4541,N4541__,Electronic shopping and mail-order houses,4541,4541,4541,4541
+51M,N515___,Broadcasting (except internet),515,515,515,515
+515,N515___,Broadcasting (except internet),515,515,515,515
+454111,N4541__,Electronic shopping and mail-order houses,4541,4541,4541,4541
+454110,N4541__,Electronic shopping and mail-order houses,4541,4541,4541,4541
+33299M,N33299_,All other fabricated metal product manufacturing,33299,33299,33299,33299
+33641M1,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
+33641M2,N33641_,Aerospace product and parts manufacturing,33641,33641,33641,33641
+32199M,N32199_,All other wood product manufacturing,32199,32199,32199,32199
+454112,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
+454110,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
+454113,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
+812111,N81211_,"Hair, nail, and skin care services",81211,81211,81211,81211
+812112,N81211_,"Hair, nail, and skin care services",81211,81211,81211,81211
+8121M,N81211_,"Hair, nail, and skin care services",81211,81211,81211,81211
+4541,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
+454111,N45411_,Electronic shopping and mail-order houses,45411,45411,45411,45411
+2213M,N2213__,"Water, sewage and other systems",2213,2213,2213,2213
+22132,N2213__,"Water, sewage and other systems",2213,2213,2213,2213
+31411,N3141__,Textile furnishings mills,3141,3141,3141,3141
+31M,N3132__,Fabric mills,3132,3132,3132,3132
+3222M,N3222__,Converted paper product manufacturing,3222,3222,3222,3222
+32621,N3262__,Rubber product manufacturing,3262,3262,3262,3262
+3262M,N3262__,Rubber product manufacturing,3262,3262,3262,3262
+32711,N3271__,Clay product and refractory manufacturing,3271,3271,3271,3271
+32712,N3271__,Clay product and refractory manufacturing,3271,3271,3271,3271
+327120,N3271__,Clay product and refractory manufacturing,3271,3271,3271,3271
+33311,N3331__,"Agriculture, construction, and mining machinery",3331,3331,3331,3331
+3331M,N3331__,"Agriculture, construction, and mining machinery",3331,3331,3331,3331
+3399M,N3399__,Other miscellaneous manufacturing,3399,3399,3399,3399
+42393,N4239__,Miscellaneous durable goods merchant wholesalers,4239,4239,4239,4239
+42491,N4249__,Miscellaneous nondurable goods merchant wholesalers,4249,4249,4249,4249
+4431M,N4431__,Electronics and appliance stores,4431,4431,4431,4431
+443142,N4431__,Electronics and appliance stores,4431,4431,4431,4431
+4M,N4431__,Electronics and appliance stores,4431,4431,4431,4431
+4511M,N4431__,Electronics and appliance stores,4431,4431,4431,4431
+45113,N4511__,"Sporting goods, hobby, and musical instrument stores",4511,4511,4511,4511
+451M,N4511__,"Sporting goods, hobby, and musical instrument stores",4511,4511,4511,4511
+45114,N4511__,"Sporting goods, hobby, and musical instrument stores",4511,4511,4511,4511
+451M,N4512__,Book stores and news dealers,4512,4512,4512,4512
+45114,N4512__,Book stores and news dealers,4512,4512,4512,4512
+811192,N8111__,Automotive repair and maintenance,8111,8111,8111,8111
+3241M,N3241__,Petroleum and coal products manufacturing,3241,3241,3241,3241
+45211,N452___,General merchandise stores,452,452,452,452
+45221,N452___,General merchandise stores,452,452,452,452
+4529,N452___,General merchandise stores,452,452,452,452
+4523,N452___,General merchandise stores,452,452,452,452
+721M,N721___,Accommodation,721,721,721,721

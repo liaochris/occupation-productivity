@@ -46,7 +46,7 @@ data_sel <- data %>%
     `IND`, `IND1990`, `WKSWORK1`, `WKSWORK2`, `UHRSWORK`, `INCWAGE`, `SEX`
   )) %>%
   filter(WKSWORK2 > 3) %>% #only keep workers who worked 40 weeks a year
-  filter(UHRSWORK > 20) #remove workers who
+  filter(UHRSWORK > 20) #remove workers who work less than 20 hours a week
 
 #convert wkswork2 - categorical variable into quantity
 #replaced category with midpoint of range
@@ -60,6 +60,10 @@ data_sel <- data_sel %>% mutate(wkswork = coalesce(wkswork, WKSWORKS2_conv))
 
 #calculate hourly wage, adjusting for inflation
 data_sel$hrwage <- (data_sel$INCWAGE / (data_sel$wkswork * data_sel$UHRSWORK)) * data_sel$CPI99
+
+#filter for workers who worked below minimum wage or had excessively high wages
+data_sel <- data_sel %>% filter(hrwage > 5.15 & hrwage < 200)
+
 
 data_sel_wage <- data_sel
 
@@ -83,13 +87,18 @@ indnaics_crosswalk <- fread("Datasets/Cleaned/full_crosswalk.csv")
 data_sel_wage$id <- 1:dim(data_sel_wage)[1]
 data_sel_wage <- data_sel_wage %>% select(c(dim(data_sel_wage)[2], 1:(dim(data_sel_wage)[2] - 1)))
 
+#list of unmatched occupations
+unique(data_sel_wage$INDNAICS)[!unique(data_sel_wage$INDNAICS) %in% unique(data_joined$INDNAICS)]
+#table of percentage of data each unmatched occupation represents
+table((data_sel_wage %>% filter(INDNAICS %in% unique(data_sel_wage$INDNAICS)[!unique(data_sel_wage$INDNAICS) %in% unique(data_joined$INDNAICS)]))$INDNAICS)/dim(data_sel_wage)[1] * 100
+
 #join indnaics with NAICS through crosswalk
 data_joined <- data_sel_wage %>% inner_join(indnaics_crosswalk %>% select(c(
   "indnaics",
   "industry_code", "industry_text"
 )),
 by = c("INDNAICS" = "indnaics")
-)
+) %>% distinct()
 print(paste("this much of the data was preserved post merge", length(unique(data_joined$id)) / length(unique(data_sel_wage$id)), sep = " "))
 print(paste("this proportion of the indnaics codes from the ACS data are present in the crosswalk", mean((unique(data_sel_wage$INDNAICS)) %in% unique(indnaics_crosswalk$indnaics)), sep = " "))
 print(paste("roughly", mean(duplicated(data_joined$id)), "of the data is duplicated due to one INDNAICS code corresponding to multiple NAICS industries", sep = " "))
@@ -104,6 +113,14 @@ print("this rate is high because the crosswalk from indnaics to naics already fi
 print("Ought to be 100% but likely due to some industries not being present in all years")
 # creating column to note duplicate entries because of multiple matching industries
 data_sel_wage_ind$productivity <- data_sel_wage_ind$productivity * data_sel_wage_ind$CPI99
+
+#data count distribution over each year
+table(data_sel_wage_ind$YEAR)
+#plot of decline
+plot(table(data_sel_wage_ind$YEAR), type = "line")
+#explainable by growth of certain industries with no BLS data?
+#perhaps related to decline in manufacturing - manufacturing industries most likely
+#to be in BLS data
 
 # statistics on how variable count varies across years
 temp <- data_sel_wage_ind %>%
@@ -141,8 +158,6 @@ data_sel_wage_ind2 <- itemizeChars("industry_code")
 data_sel_wage_ind2 <- itemizeChars("industry_text")
 data_sel_wage_ind2 <- itemizeChars("sector_text")
 
-#filter for workers who worked below minimum wage or had excessively high wages
-data_sel_wage_ind2 <- data_sel_wage_ind2 %>% filter(hrwage > 5.15 & hrwage < 200)
 data_sel_wage_ind2$log_productivity <- log(data_sel_wage_ind2$productivity)
 
 #label the different metrics obtained from the productivity dataset
@@ -167,6 +182,19 @@ data_sel_wage_ind2$educ_group <- cut(data_sel_wage_ind2$EDUCD,
   breaks = c(0, 62, 81, 101, 114, Inf),
   labels = c("no hs", "hs", "cc", "college", "graduate"), right = FALSE
 )
+
+
+# clean column names
+data_early_export <- data_sel_wage_ind2
+data_early_export <- janitor::clean_names(data_early_export)
+data_early_export <- data_early_export %>%
+  group_by(`id`) %>%
+  mutate(dup_cnt = n())
+# create fuzzy factor to adjust for duplicate values when calculating perwt
+data_early_export$fuzzy <- 1 / data_early_export$dup_cnt
+
+write_dta(data_early_export, "Datasets/Merged/ACS_wage_productivity.dta")
+
 
 #import Dorn data on the offshoreability of a task
 task_data <- read.dta("Datasets/Imported/Dorn/occ1990dd_task_alm.dta")
@@ -229,4 +257,4 @@ data_productivity <- data_productivity %>%
 # create fuzzy factor to adjust for duplicate values when calculating perwt
 data_productivity$fuzzy <- 1 / data_productivity$dup_cnt
 
-write_dta(janitor::clean_names(data_productivity), "Datasets/Merged/ACS_wage_productivity.dta")
+write_dta(data_productivity, "Datasets/Merged/ACS_wage_productivity_extra_measures.dta")

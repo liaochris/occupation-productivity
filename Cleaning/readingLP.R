@@ -122,8 +122,8 @@ lp_current_prod <- data_current_expanded %>%
   filter(duration_code == 0) %>%
   filter(industry_code != "N______")
 
-# getting labor productivity columns (hours worked in millions, employment in thousands, value of production in millions)
-lp_current <- lp_current_prod %>% filter(measure_code %in% c("L20", "W20", "T30"))
+# getting labor productivity columns (hours worked in millions, value of production in millions)
+lp_current <- lp_current_prod %>% filter(measure_code %in% c("L20", "T30"))
 # select for desired columns, changing to wide data
 lp_current_wide <- pivot_wider(
   data = lp_current %>%
@@ -135,7 +135,7 @@ lp_current_wide <- pivot_wider(
   names_from = measure_code, values_from = value
 )
 # filtering for rows that do not have na values for the specified columns
-lp_current_rows <- which(rowSums(is.na(lp_current_wide %>% select(c("L20", "W20", "T30")))) == 0)
+lp_current_rows <- which(rowSums(is.na(lp_current_wide %>% select(c("L20", "T30")))) == 0)
 lp_current_wide_filled <- lp_current_wide[lp_current_rows, ]
 # calculate productivity - factor of how much a worker produces per hour, dollar wise
 lp_current_wide_filled$productivity <- lp_current_wide_filled$T30 / lp_current_wide_filled$L20

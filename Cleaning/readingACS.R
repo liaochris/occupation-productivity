@@ -75,7 +75,7 @@ count_occsoc_indnaics_year$tot_sum <- unlist(lapply(occyear_tsum, f, occ_sum_dic
 count_occsoc_indnaics_year$percent <- count_occsoc_indnaics_year$count / count_occsoc_indnaics_year$tot_sum * 100
 
 # reading in productivity dataset
-ctypes <- paste(c(rep("cn", 2), rep("c", 9), "n", rep("c", 8), rep("nc", 2)), collapse = "")
+ctypes <- unlist("nccccnnn")
 lp_current <- read_delim(file = "Datasets/Cleaned/lp_current.csv", delim = ",", col_types = ctypes)
 # extracting a list of all NAICS industries in the productivity dataset,.
 lp_naics <- lp_current %>%

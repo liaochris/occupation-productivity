@@ -155,7 +155,7 @@ indnaics_crosswalk <- removeExclude(indnaics_crosswalk, 3)
 indnaics_crosswalk <- removeExclude(indnaics_crosswalk, 4)
 
 
-# clean up columns where the two have discrepancies
+# clean up columns where 2007 and 2002 NAICS codes do not align have discrepancies
 unequal <- indnaics_crosswalk$`2002 NAICS EQUIVALENT` != indnaics_crosswalk$`2007 NAICS EQUIVALENT`
 fixedCol <- indnaics_crosswalk[unequal, ]
 # the only cleaning that has to be done is to split values separated by a string into two columns
@@ -678,7 +678,10 @@ full_match_clean_excl2 <- setdiff(
   full_match_clean_excl2 %>% filter(naics == EXCLUDE2)
 )
 full_match_clean_excl2$EXCLUDE2 <- NULL
+full_match_clean_excl2$naics <- NULL
+full_match_cleaned <- full_match_clean_excl2 %>% distinct()
 
-full_match_cleaned <- full_match_clean_excl2
+print("percent of indnaics codes originally given to us in crosswalk preserved after merging to BLS")
+mean(unique(naics_indnaics_full$indnaics) %in% unique(full_match_cleaned$indnaics))
 
 fwrite(full_match_cleaned, "Datasets/Cleaned/full_crosswalk.csv", nThread = 10)
