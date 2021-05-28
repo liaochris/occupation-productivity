@@ -1,16 +1,16 @@
 # occupation-productivity
-<h2> Introduction </h2>
+## Introduction 
 
-GitHub repository for research on variations in the productivity of occupations with UChicago PhD student James Traina. For further information please email me (Chris Liao) at chrisliao (at) uchicago (dot) edu.
-<h3> Project Goal </h3>
+This is the GitHub repository for research on variations in the productivity of occupations with UChicago PhD student James Traina. For further information please email me (Chris Liao) at chrisliao (at) uchicago (dot) edu.
 
 The goal of this project is to explore a syptom of Baumol's Cost Disease, which is how much wage changes in one occupation, caused by a productivity increase in that occupation (ie: the introduction of a new technology that makes workers more productive) affects the wage in another occupation. 
 Specifically, we plan to group occupations together based off of shared skills that occupations are said to require, as indicated in O*NET Data. 
 
-<h3> Overview </h3>
+## Overview 
 
-Here is an explanation of what is contained within this repository. There are three main folders - **Cleaning**, **Datasets**  and **Merging**. **Cleaning** contains the R scripts that cleans and creates the datasets that will be used in the analysis. **Datasets** contains two subfolders, **Imported** and **Cleaned**. **Datasets/Imported** contains the raw data files processed by the scripts in **Cleaning**. **Datasets/Cleaned** contains the cleaned datasets created by the scrips in **Cleaning**. **Merging** contains the scripts that will create our merged data, which will be stored in **Datasets/Merged**.
-<h2> Datasets </h2>
+Here is an explanation of what is contained within this repository. There are three main folders - ``Cleaning``, **Datasets**  and **Merging**. **Cleaning** contains the R scripts that cleans and creates the datasets that will be used in the analysis. **Datasets** contains two subfolders, **Imported** and **Cleaned**. **Datasets/Imported** contains the raw data files processed by the scripts in **Cleaning**. **Datasets/Cleaned** contains the cleaned datasets created by the scrips in **Cleaning**. **Merging** contains the scripts that will create our merged data, which will be stored in **Datasets/Merged**.
+
+### Datasets </h2>
 
 There are three datasets contained in **Datasets/Imported**.
 <h3> ACS Data </h3>
